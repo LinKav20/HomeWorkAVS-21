@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Linok\Desktop\avs
+CMAKE_SOURCE_DIR = C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Linok\Desktop\avs\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles\avs.dir\depend.make
@@ -57,135 +57,135 @@ include CMakeFiles\avs.dir\flags.make
 
 CMakeFiles\avs.dir\main.cpp.obj: CMakeFiles\avs.dir\flags.make
 CMakeFiles\avs.dir\main.cpp.obj: ..\main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Linok\Desktop\avs\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/avs.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/avs.dir/main.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\avs.dir\main.cpp.obj /FdCMakeFiles\avs.dir\ /FS -c C:\Users\Linok\Desktop\avs\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\avs.dir\main.cpp.obj /FdCMakeFiles\avs.dir\ /FS -c C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\main.cpp
 <<
 
 CMakeFiles\avs.dir\main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/avs.dir/main.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\avs.dir\main.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Linok\Desktop\avs\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\main.cpp
 <<
 
 CMakeFiles\avs.dir\main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/avs.dir/main.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\avs.dir\main.cpp.s /c C:\Users\Linok\Desktop\avs\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\avs.dir\main.cpp.s /c C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\main.cpp
 <<
 
 CMakeFiles\avs.dir\src\shapes\parallelepiped\Parallelepiped.cpp.obj: CMakeFiles\avs.dir\flags.make
 CMakeFiles\avs.dir\src\shapes\parallelepiped\Parallelepiped.cpp.obj: ..\src\shapes\parallelepiped\Parallelepiped.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Linok\Desktop\avs\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/avs.dir/src/shapes/parallelepiped/Parallelepiped.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/avs.dir/src/shapes/parallelepiped/Parallelepiped.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\avs.dir\src\shapes\parallelepiped\Parallelepiped.cpp.obj /FdCMakeFiles\avs.dir\ /FS -c C:\Users\Linok\Desktop\avs\src\shapes\parallelepiped\Parallelepiped.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\avs.dir\src\shapes\parallelepiped\Parallelepiped.cpp.obj /FdCMakeFiles\avs.dir\ /FS -c C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\shapes\parallelepiped\Parallelepiped.cpp
 <<
 
 CMakeFiles\avs.dir\src\shapes\parallelepiped\Parallelepiped.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/avs.dir/src/shapes/parallelepiped/Parallelepiped.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\avs.dir\src\shapes\parallelepiped\Parallelepiped.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Linok\Desktop\avs\src\shapes\parallelepiped\Parallelepiped.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\shapes\parallelepiped\Parallelepiped.cpp
 <<
 
 CMakeFiles\avs.dir\src\shapes\parallelepiped\Parallelepiped.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/avs.dir/src/shapes/parallelepiped/Parallelepiped.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\avs.dir\src\shapes\parallelepiped\Parallelepiped.cpp.s /c C:\Users\Linok\Desktop\avs\src\shapes\parallelepiped\Parallelepiped.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\avs.dir\src\shapes\parallelepiped\Parallelepiped.cpp.s /c C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\shapes\parallelepiped\Parallelepiped.cpp
 <<
 
 CMakeFiles\avs.dir\src\shapes\sphere\Sphere.cpp.obj: CMakeFiles\avs.dir\flags.make
 CMakeFiles\avs.dir\src\shapes\sphere\Sphere.cpp.obj: ..\src\shapes\sphere\Sphere.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Linok\Desktop\avs\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/avs.dir/src/shapes/sphere/Sphere.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/avs.dir/src/shapes/sphere/Sphere.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\avs.dir\src\shapes\sphere\Sphere.cpp.obj /FdCMakeFiles\avs.dir\ /FS -c C:\Users\Linok\Desktop\avs\src\shapes\sphere\Sphere.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\avs.dir\src\shapes\sphere\Sphere.cpp.obj /FdCMakeFiles\avs.dir\ /FS -c C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\shapes\sphere\Sphere.cpp
 <<
 
 CMakeFiles\avs.dir\src\shapes\sphere\Sphere.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/avs.dir/src/shapes/sphere/Sphere.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\avs.dir\src\shapes\sphere\Sphere.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Linok\Desktop\avs\src\shapes\sphere\Sphere.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\shapes\sphere\Sphere.cpp
 <<
 
 CMakeFiles\avs.dir\src\shapes\sphere\Sphere.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/avs.dir/src/shapes/sphere/Sphere.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\avs.dir\src\shapes\sphere\Sphere.cpp.s /c C:\Users\Linok\Desktop\avs\src\shapes\sphere\Sphere.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\avs.dir\src\shapes\sphere\Sphere.cpp.s /c C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\shapes\sphere\Sphere.cpp
 <<
 
 CMakeFiles\avs.dir\src\shapes\tetrahedron\Tetrahedron.cpp.obj: CMakeFiles\avs.dir\flags.make
 CMakeFiles\avs.dir\src\shapes\tetrahedron\Tetrahedron.cpp.obj: ..\src\shapes\tetrahedron\Tetrahedron.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Linok\Desktop\avs\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/avs.dir/src/shapes/tetrahedron/Tetrahedron.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/avs.dir/src/shapes/tetrahedron/Tetrahedron.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\avs.dir\src\shapes\tetrahedron\Tetrahedron.cpp.obj /FdCMakeFiles\avs.dir\ /FS -c C:\Users\Linok\Desktop\avs\src\shapes\tetrahedron\Tetrahedron.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\avs.dir\src\shapes\tetrahedron\Tetrahedron.cpp.obj /FdCMakeFiles\avs.dir\ /FS -c C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\shapes\tetrahedron\Tetrahedron.cpp
 <<
 
 CMakeFiles\avs.dir\src\shapes\tetrahedron\Tetrahedron.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/avs.dir/src/shapes/tetrahedron/Tetrahedron.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\avs.dir\src\shapes\tetrahedron\Tetrahedron.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Linok\Desktop\avs\src\shapes\tetrahedron\Tetrahedron.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\shapes\tetrahedron\Tetrahedron.cpp
 <<
 
 CMakeFiles\avs.dir\src\shapes\tetrahedron\Tetrahedron.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/avs.dir/src/shapes/tetrahedron/Tetrahedron.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\avs.dir\src\shapes\tetrahedron\Tetrahedron.cpp.s /c C:\Users\Linok\Desktop\avs\src\shapes\tetrahedron\Tetrahedron.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\avs.dir\src\shapes\tetrahedron\Tetrahedron.cpp.s /c C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\shapes\tetrahedron\Tetrahedron.cpp
 <<
 
 CMakeFiles\avs.dir\src\shapes\shape\Shape.cpp.obj: CMakeFiles\avs.dir\flags.make
 CMakeFiles\avs.dir\src\shapes\shape\Shape.cpp.obj: ..\src\shapes\shape\Shape.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Linok\Desktop\avs\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/avs.dir/src/shapes/shape/Shape.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/avs.dir/src/shapes/shape/Shape.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\avs.dir\src\shapes\shape\Shape.cpp.obj /FdCMakeFiles\avs.dir\ /FS -c C:\Users\Linok\Desktop\avs\src\shapes\shape\Shape.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\avs.dir\src\shapes\shape\Shape.cpp.obj /FdCMakeFiles\avs.dir\ /FS -c C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\shapes\shape\Shape.cpp
 <<
 
 CMakeFiles\avs.dir\src\shapes\shape\Shape.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/avs.dir/src/shapes/shape/Shape.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\avs.dir\src\shapes\shape\Shape.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Linok\Desktop\avs\src\shapes\shape\Shape.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\shapes\shape\Shape.cpp
 <<
 
 CMakeFiles\avs.dir\src\shapes\shape\Shape.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/avs.dir/src/shapes/shape/Shape.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\avs.dir\src\shapes\shape\Shape.cpp.s /c C:\Users\Linok\Desktop\avs\src\shapes\shape\Shape.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\avs.dir\src\shapes\shape\Shape.cpp.s /c C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\shapes\shape\Shape.cpp
 <<
 
 CMakeFiles\avs.dir\src\container\Container.cpp.obj: CMakeFiles\avs.dir\flags.make
 CMakeFiles\avs.dir\src\container\Container.cpp.obj: ..\src\container\Container.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Linok\Desktop\avs\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/avs.dir/src/container/Container.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/avs.dir/src/container/Container.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\avs.dir\src\container\Container.cpp.obj /FdCMakeFiles\avs.dir\ /FS -c C:\Users\Linok\Desktop\avs\src\container\Container.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\avs.dir\src\container\Container.cpp.obj /FdCMakeFiles\avs.dir\ /FS -c C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\container\Container.cpp
 <<
 
 CMakeFiles\avs.dir\src\container\Container.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/avs.dir/src/container/Container.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\avs.dir\src\container\Container.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Linok\Desktop\avs\src\container\Container.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\container\Container.cpp
 <<
 
 CMakeFiles\avs.dir\src\container\Container.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/avs.dir/src/container/Container.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\avs.dir\src\container\Container.cpp.s /c C:\Users\Linok\Desktop\avs\src\container\Container.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\avs.dir\src\container\Container.cpp.s /c C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\container\Container.cpp
 <<
 
 CMakeFiles\avs.dir\src\random\Random.cpp.obj: CMakeFiles\avs.dir\flags.make
 CMakeFiles\avs.dir\src\random\Random.cpp.obj: ..\src\random\Random.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Linok\Desktop\avs\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/avs.dir/src/random/Random.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/avs.dir/src/random/Random.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\avs.dir\src\random\Random.cpp.obj /FdCMakeFiles\avs.dir\ /FS -c C:\Users\Linok\Desktop\avs\src\random\Random.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\avs.dir\src\random\Random.cpp.obj /FdCMakeFiles\avs.dir\ /FS -c C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\random\Random.cpp
 <<
 
 CMakeFiles\avs.dir\src\random\Random.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/avs.dir/src/random/Random.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\avs.dir\src\random\Random.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Linok\Desktop\avs\src\random\Random.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\random\Random.cpp
 <<
 
 CMakeFiles\avs.dir\src\random\Random.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/avs.dir/src/random/Random.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\avs.dir\src\random\Random.cpp.s /c C:\Users\Linok\Desktop\avs\src\random\Random.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\avs.dir\src\random\Random.cpp.s /c C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\src\random\Random.cpp
 <<
 
 # Object files for target avs
@@ -210,9 +210,9 @@ avs.exe: CMakeFiles\avs.dir\src\container\Container.cpp.obj
 avs.exe: CMakeFiles\avs.dir\src\random\Random.cpp.obj
 avs.exe: CMakeFiles\avs.dir\build.make
 avs.exe: CMakeFiles\avs.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Linok\Desktop\avs\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable avs.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable avs.exe"
 	"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\avs.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\avs.dir\objects1.rsp @<<
- /out:avs.exe /implib:avs.lib /pdb:C:\Users\Linok\Desktop\avs\cmake-build-debug\avs.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
+ /out:avs.exe /implib:avs.lib /pdb:C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\cmake-build-debug\avs.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
 
 # Rule to build all files generated by this target.
@@ -224,6 +224,6 @@ CMakeFiles\avs.dir\clean:
 .PHONY : CMakeFiles\avs.dir\clean
 
 CMakeFiles\avs.dir\depend:
-	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\Linok\Desktop\avs C:\Users\Linok\Desktop\avs C:\Users\Linok\Desktop\avs\cmake-build-debug C:\Users\Linok\Desktop\avs\cmake-build-debug C:\Users\Linok\Desktop\avs\cmake-build-debug\CMakeFiles\avs.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1 C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1 C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\cmake-build-debug C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\cmake-build-debug C:\Users\Linok\Desktop\HomeWorkAVS-21\hw1\cmake-build-debug\CMakeFiles\avs.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles\avs.dir\depend
 

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Linok/Desktop/avs/main.cpp
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/main.cpp
 iostream
 -
 fstream
@@ -18,45 +18,69 @@ cstring
 ctime
 -
 src/container/Container.h
-C:/Users/Linok/Desktop/avs/src/container/Container.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/container/Container.h
 
-C:/Users/Linok/Desktop/avs/src/container/Container.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/container/Container.cpp
+Container.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/container/Container.h
+
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/container/Container.h
 ../shapes/shape/Shape.h
-C:/Users/Linok/Desktop/avs/src/shapes/shape/Shape.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/shape/Shape.h
 
-C:/Users/Linok/Desktop/avs/src/random/Random.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/random/Random.cpp
+Random.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/random/Random.h
+
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/random/Random.h
 cstdlib
 -
 
-C:/Users/Linok/Desktop/avs/src/shapes/parallelepiped/Parallelepiped.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/parallelepiped/Parallelepiped.cpp
+Parallelepiped.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/parallelepiped/Parallelepiped.h
+
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/parallelepiped/Parallelepiped.h
 iostream
 -
 fstream
 -
 ../../random/Random.h
-C:/Users/Linok/Desktop/avs/src/random/Random.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/random/Random.h
 
-C:/Users/Linok/Desktop/avs/src/shapes/shape/Shape.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/shape/Shape.cpp
+Shape.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/shape/Shape.h
+
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/shape/Shape.h
 iostream
 -
 ../sphere/Sphere.h
-C:/Users/Linok/Desktop/avs/src/shapes/sphere/Sphere.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/sphere/Sphere.h
 ../parallelepiped/Parallelepiped.h
-C:/Users/Linok/Desktop/avs/src/shapes/parallelepiped/Parallelepiped.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/parallelepiped/Parallelepiped.h
 ../tetrahedron/Tetrahedron.h
-C:/Users/Linok/Desktop/avs/src/shapes/tetrahedron/Tetrahedron.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/tetrahedron/Tetrahedron.h
 ../../random/Random.h
-C:/Users/Linok/Desktop/avs/src/random/Random.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/random/Random.h
 
-C:/Users/Linok/Desktop/avs/src/shapes/sphere/Sphere.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/sphere/Sphere.cpp
+Sphere.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/sphere/Sphere.h
+
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/sphere/Sphere.h
 iostream
 -
 fstream
 -
 ../../random/Random.h
-C:/Users/Linok/Desktop/avs/src/random/Random.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/random/Random.h
 
-C:/Users/Linok/Desktop/avs/src/shapes/tetrahedron/Tetrahedron.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/tetrahedron/Tetrahedron.cpp
+Tetrahedron.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/tetrahedron/Tetrahedron.h
+
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/tetrahedron/Tetrahedron.h
 iostream
 -
 fstream
@@ -64,5 +88,5 @@ fstream
 math.h
 -
 ../../random/Random.h
-C:/Users/Linok/Desktop/avs/src/random/Random.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/random/Random.h
 

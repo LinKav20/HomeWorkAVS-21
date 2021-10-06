@@ -8,6 +8,7 @@
 
 using std::cout;
 
+// Сообщение об ошибке при вводе некорретного количества параметров.
 void invalidParametersListException() {
     std::cout << "Invalid input parameters!\n";
     std::cout << "Expected:\n";
@@ -16,6 +17,7 @@ void invalidParametersListException() {
     std::cout << "\t-r <input_file> <out_file_data> <out_file_sorted_data>";
 }
 
+// Сообщение об ошибке при вводе некорретного флага.
 void incorrectFlagsException(){
     std::cout << "Invalid flags!\n";
     std::cout << "Expected:\n";
@@ -23,6 +25,8 @@ void incorrectFlagsException(){
     std::cout << "\tOr: \n";
     std::cout << "\t-r for create random data";
 }
+
+// Заполнение и инициализация контейнера.
 void fillContainer(Container& container, char* argv[]) {
     int size = 0;
 
@@ -48,6 +52,7 @@ void fillContainer(Container& container, char* argv[]) {
 }
 
 int main(int argc, char* argv[]) {
+    // Проверяем нужное ли количество аргументов мы получили.
     if (argc != 5) {
         invalidParametersListException();
         return 1;

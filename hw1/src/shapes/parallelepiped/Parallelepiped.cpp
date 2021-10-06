@@ -29,5 +29,5 @@ void writeData(Parallelepiped& p, std::ofstream& output) {
 }
 
 double square(Parallelepiped& p){
-    return p.x * p.y * p.z;
+    return 2 * (p.y * p.x + p.y * p.z + p.z * p.x);
 }

@@ -8,13 +8,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Linok/Desktop/avs/main.cpp" "C:/Users/Linok/Desktop/avs/cmake-build-debug/CMakeFiles/avs.dir/main.cpp.obj"
-  "C:/Users/Linok/Desktop/avs/src/container/Container.cpp" "C:/Users/Linok/Desktop/avs/cmake-build-debug/CMakeFiles/avs.dir/src/container/Container.cpp.obj"
-  "C:/Users/Linok/Desktop/avs/src/random/Random.cpp" "C:/Users/Linok/Desktop/avs/cmake-build-debug/CMakeFiles/avs.dir/src/random/Random.cpp.obj"
-  "C:/Users/Linok/Desktop/avs/src/shapes/parallelepiped/Parallelepiped.cpp" "C:/Users/Linok/Desktop/avs/cmake-build-debug/CMakeFiles/avs.dir/src/shapes/parallelepiped/Parallelepiped.cpp.obj"
-  "C:/Users/Linok/Desktop/avs/src/shapes/shape/Shape.cpp" "C:/Users/Linok/Desktop/avs/cmake-build-debug/CMakeFiles/avs.dir/src/shapes/shape/Shape.cpp.obj"
-  "C:/Users/Linok/Desktop/avs/src/shapes/sphere/Sphere.cpp" "C:/Users/Linok/Desktop/avs/cmake-build-debug/CMakeFiles/avs.dir/src/shapes/sphere/Sphere.cpp.obj"
-  "C:/Users/Linok/Desktop/avs/src/shapes/tetrahedron/Tetrahedron.cpp" "C:/Users/Linok/Desktop/avs/cmake-build-debug/CMakeFiles/avs.dir/src/shapes/tetrahedron/Tetrahedron.cpp.obj"
+  "C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/main.cpp" "C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/cmake-build-debug/CMakeFiles/avs.dir/main.cpp.obj"
+  "C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/container/Container.cpp" "C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/cmake-build-debug/CMakeFiles/avs.dir/src/container/Container.cpp.obj"
+  "C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/random/Random.cpp" "C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/cmake-build-debug/CMakeFiles/avs.dir/src/random/Random.cpp.obj"
+  "C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/parallelepiped/Parallelepiped.cpp" "C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/cmake-build-debug/CMakeFiles/avs.dir/src/shapes/parallelepiped/Parallelepiped.cpp.obj"
+  "C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/shape/Shape.cpp" "C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/cmake-build-debug/CMakeFiles/avs.dir/src/shapes/shape/Shape.cpp.obj"
+  "C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/sphere/Sphere.cpp" "C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/cmake-build-debug/CMakeFiles/avs.dir/src/shapes/sphere/Sphere.cpp.obj"
+  "C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/src/shapes/tetrahedron/Tetrahedron.cpp" "C:/Users/Linok/Desktop/HomeWorkAVS-21/hw1/cmake-build-debug/CMakeFiles/avs.dir/src/shapes/tetrahedron/Tetrahedron.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

@@ -1,3 +1,5 @@
+// Функции, для создания рандомных объектов.
+
 #ifndef AVS_RANDOM_H
 #define AVS_RANDOM_H
 

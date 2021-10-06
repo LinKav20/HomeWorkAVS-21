@@ -6,6 +6,8 @@ void readData(Shape& s, std::ifstream& input) {
     Shape::Key type;
     input >> type_int >> den;
 
+    // Перенапраляем ввод данных на нужную
+    // нам функцию в зависимоти от типа фигуры.
     switch (type_int) {
         case 1: {
             type = Shape::SPHERE;
@@ -36,6 +38,8 @@ void rndData(Shape& s) {
     int type = randomInt() % 3;
     s.density = randomDouble();
 
+    // Перенапраляем ввод данных на нужную
+    // нам функцию в зависимоти от типа фигуры.
     switch (type) {
         case 0: {
             s.type = Shape::SPHERE;
@@ -56,6 +60,8 @@ void rndData(Shape& s) {
 }
 
 void writeData(Shape& s, std::ofstream& output) {
+    // Перенапраляем вывод данных на нужную
+    // нам функцию в зависимоти от типа фигуры.
     switch (s.type) {
         case Shape::SPHERE: {
             writeData(s.sphere, output);
