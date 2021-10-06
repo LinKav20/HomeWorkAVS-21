@@ -1,0 +1,13 @@
+There are 3 shapes in the container.
+----------  1
+	The sphere with the radius is 7.
+	The sphere's square is 615.752.
+	The density of shape is 5.56.
+----------  2
+	The parallelepiped with sides x: 6 y: 7 z: 8.
+	The parallelepiped`s square is 336.
+	The density of shape is 3.45.
+----------  3
+	The tetrahedron with the side 6.
+	The tetrahedron`s square is 62.3538.
+	The density of shape is 7.7.

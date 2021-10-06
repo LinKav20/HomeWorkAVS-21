@@ -1,0 +1,401 @@
+There are 100 shapes in the container.
+----------  1
+	The parallelepiped with sides x: 85 y: 278 z: 701.
+	The parallelepiped`s square is 1.65646e+07.
+	The density of shape is 996.613.
+----------  2
+	The parallelepiped with sides x: 131 y: 326 z: 344.
+	The parallelepiped`s square is 1.46909e+07.
+	The density of shape is 989.136.
+----------  3
+	The parallelepiped with sides x: 972 y: 144 z: 99.
+	The parallelepiped`s square is 1.38568e+07.
+	The density of shape is 962.83.
+----------  4
+	The parallelepiped with sides x: 813 y: 723 z: 564.
+	The parallelepiped`s square is 3.31519e+08.
+	The density of shape is 954.803.
+----------  5
+	The parallelepiped with sides x: 526 y: 13 z: 561.
+	The parallelepiped`s square is 3.83612e+06.
+	The density of shape is 903.259.
+----------  6
+	The parallelepiped with sides x: 700 y: 776 z: 607.
+	The parallelepiped`s square is 3.29722e+08.
+	The density of shape is 901.184.
+----------  7
+	The parallelepiped with sides x: 71 y: 257 z: 490.
+	The parallelepiped`s square is 8.94103e+06.
+	The density of shape is 876.129.
+----------  8
+	The tetrahedron with the side 468.
+	The tetrahedron`s square is 379361.
+	The density of shape is 862.183.
+----------  9
+	The parallelepiped with sides x: 228 y: 549 z: 836.
+	The parallelepiped`s square is 1.04644e+08.
+	The density of shape is 812.439.
+----------  10
+	The tetrahedron with the side 37.
+	The tetrahedron`s square is 2371.18.
+	The density of shape is 805.756.
+----------  11
+	The tetrahedron with the side 518.
+	The tetrahedron`s square is 464751.
+	The density of shape is 801.361.
+----------  12
+	The tetrahedron with the side 201.
+	The tetrahedron`s square is 69976.6.
+	The density of shape is 796.539.
+----------  13
+	The tetrahedron with the side 79.
+	The tetrahedron`s square is 10809.7.
+	The density of shape is 782.959.
+----------  14
+	The sphere with the radius is 724.
+	The sphere's square is 6.58699e+06.
+	The density of shape is 777.283.
+----------  15
+	The sphere with the radius is 28.
+	The sphere's square is 9852.03.
+	The density of shape is 768.433.
+----------  16
+	The tetrahedron with the side 432.
+	The tetrahedron`s square is 323242.
+	The density of shape is 761.017.
+----------  17
+	The parallelepiped with sides x: 316 y: 499 z: 288.
+	The parallelepiped`s square is 4.5413e+07.
+	The density of shape is 747.681.
+----------  18
+	The parallelepiped with sides x: 495 y: 4 z: 27.
+	The parallelepiped`s square is 53460.
+	The density of shape is 710.052.
+----------  19
+	The tetrahedron with the side 460.
+	The tetrahedron`s square is 366502.
+	The density of shape is 705.566.
+----------  20
+	The parallelepiped with sides x: 881 y: 837 z: 427.
+	The parallelepiped`s square is 3.14869e+08.
+	The density of shape is 702.576.
+----------  21
+	The sphere with the radius is 885.
+	The sphere's square is 9.84229e+06.
+	The density of shape is 688.11.
+----------  22
+	The parallelepiped with sides x: 335 y: 104 z: 411.
+	The parallelepiped`s square is 1.43192e+07.
+	The density of shape is 683.655.
+----------  23
+	The parallelepiped with sides x: 884 y: 79 z: 789.
+	The parallelepiped`s square is 5.51006e+07.
+	The density of shape is 680.573.
+----------  24
+	The parallelepiped with sides x: 16 y: 128 z: 496.
+	The parallelepiped`s square is 1.01581e+06.
+	The density of shape is 668.549.
+----------  25
+	The parallelepiped with sides x: 856 y: 894 z: 316.
+	The parallelepiped`s square is 2.41823e+08.
+	The density of shape is 666.626.
+----------  26
+	The parallelepiped with sides x: 799 y: 843 z: 393.
+	The parallelepiped`s square is 2.64708e+08.
+	The density of shape is 644.348.
+----------  27
+	The parallelepiped with sides x: 420 y: 200 z: 23.
+	The parallelepiped`s square is 1.932e+06.
+	The density of shape is 635.773.
+----------  28
+	The parallelepiped with sides x: 424 y: 129 z: 747.
+	The parallelepiped`s square is 4.08579e+07.
+	The density of shape is 634.583.
+----------  29
+	The tetrahedron with the side 198.
+	The tetrahedron`s square is 67903.3.
+	The density of shape is 633.118.
+----------  30
+	The sphere with the radius is 524.
+	The sphere's square is 3.45042e+06.
+	The density of shape is 629.913.
+----------  31
+	The sphere with the radius is 694.
+	The sphere's square is 6.05242e+06.
+	The density of shape is 628.906.
+----------  32
+	The tetrahedron with the side 870.
+	The tetrahedron`s square is 1.31099e+06.
+	The density of shape is 617.34.
+----------  33
+	The sphere with the radius is 653.
+	The sphere's square is 5.35841e+06.
+	The density of shape is 606.293.
+----------  34
+	The sphere with the radius is 42.
+	The sphere's square is 22167.1.
+	The density of shape is 586.517.
+----------  35
+	The sphere with the radius is 207.
+	The sphere's square is 538456.
+	The density of shape is 563.538.
+----------  36
+	The parallelepiped with sides x: 303 y: 913 z: 505.
+	The parallelepiped`s square is 1.39703e+08.
+	The density of shape is 561.188.
+----------  37
+	The tetrahedron with the side 149.
+	The tetrahedron`s square is 38453.3.
+	The density of shape is 558.929.
+----------  38
+	The sphere with the radius is 203.
+	The sphere's square is 517847.
+	The density of shape is 550.018.
+----------  39
+	The tetrahedron with the side 598.
+	The tetrahedron`s square is 619388.
+	The density of shape is 526.917.
+----------  40
+	The parallelepiped with sides x: 887 y: 579 z: 746.
+	The parallelepiped`s square is 3.83125e+08.
+	The density of shape is 512.573.
+----------  41
+	The tetrahedron with the side 944.
+	The tetrahedron`s square is 1.54349e+06.
+	The density of shape is 512.238.
+----------  42
+	The tetrahedron with the side 99.
+	The tetrahedron`s square is 16975.8.
+	The density of shape is 508.942.
+----------  43
+	The sphere with the radius is 971.
+	The sphere's square is 1.18481e+07.
+	The density of shape is 505.554.
+----------  44
+	The sphere with the radius is 492.
+	The sphere's square is 3.04187e+06.
+	The density of shape is 481.659.
+----------  45
+	The sphere with the radius is 873.
+	The sphere's square is 9.57719e+06.
+	The density of shape is 480.652.
+----------  46
+	The sphere with the radius is 725.
+	The sphere's square is 6.6052e+06.
+	The density of shape is 463.623.
+----------  47
+	The sphere with the radius is 714.
+	The sphere's square is 6.40628e+06.
+	The density of shape is 457.703.
+----------  48
+	The parallelepiped with sides x: 413 y: 973 z: 396.
+	The parallelepiped`s square is 1.59132e+08.
+	The density of shape is 457.275.
+----------  49
+	The tetrahedron with the side 507.
+	The tetrahedron`s square is 445222.
+	The density of shape is 421.783.
+----------  50
+	The parallelepiped with sides x: 637 y: 317 z: 410.
+	The parallelepiped`s square is 8.27909e+07.
+	The density of shape is 410.37.
+----------  51
+	The parallelepiped with sides x: 419 y: 625 z: 920.
+	The parallelepiped`s square is 2.40925e+08.
+	The density of shape is 402.496.
+----------  52
+	The tetrahedron with the side 303.
+	The tetrahedron`s square is 159018.
+	The density of shape is 378.54.
+----------  53
+	The sphere with the radius is 258.
+	The sphere's square is 836468.
+	The density of shape is 377.106.
+----------  54
+	The parallelepiped with sides x: 514 y: 298 z: 9.
+	The parallelepiped`s square is 1.37855e+06.
+	The density of shape is 374.39.
+----------  55
+	The tetrahedron with the side 280.
+	The tetrahedron`s square is 135793.
+	The density of shape is 367.462.
+----------  56
+	The sphere with the radius is 588.
+	The sphere's square is 4.34475e+06.
+	The density of shape is 367.279.
+----------  57
+	The tetrahedron with the side 446.
+	The tetrahedron`s square is 344533.
+	The density of shape is 364.929.
+----------  58
+	The sphere with the radius is 180.
+	The sphere's square is 407150.
+	The density of shape is 343.506.
+----------  59
+	The parallelepiped with sides x: 695 y: 926 z: 187.
+	The parallelepiped`s square is 1.20348e+08.
+	The density of shape is 339.02.
+----------  60
+	The sphere with the radius is 99.
+	The sphere's square is 123163.
+	The density of shape is 334.625.
+----------  61
+	The tetrahedron with the side 959.
+	The tetrahedron`s square is 1.59293e+06.
+	The density of shape is 328.766.
+----------  62
+	The tetrahedron with the side 269.
+	The tetrahedron`s square is 125333.
+	The density of shape is 327.85.
+----------  63
+	The tetrahedron with the side 56.
+	The tetrahedron`s square is 5431.71.
+	The density of shape is 324.158.
+----------  64
+	The tetrahedron with the side 518.
+	The tetrahedron`s square is 464751.
+	The density of shape is 321.32.
+----------  65
+	The parallelepiped with sides x: 190 y: 390 z: 154.
+	The parallelepiped`s square is 1.14114e+07.
+	The density of shape is 300.171.
+----------  66
+	The tetrahedron with the side 469.
+	The tetrahedron`s square is 380984.
+	The density of shape is 290.039.
+----------  67
+	The tetrahedron with the side 162.
+	The tetrahedron`s square is 45455.9.
+	The density of shape is 251.953.
+----------  68
+	The tetrahedron with the side 9.
+	The tetrahedron`s square is 140.296.
+	The density of shape is 250.641.
+----------  69
+	The sphere with the radius is 921.
+	The sphere's square is 1.06593e+07.
+	The density of shape is 244.904.
+----------  70
+	The sphere with the radius is 751.
+	The sphere's square is 7.08744e+06.
+	The density of shape is 225.708.
+----------  71
+	The tetrahedron with the side 417.
+	The tetrahedron`s square is 301185.
+	The density of shape is 214.844.
+----------  72
+	The sphere with the radius is 802.
+	The sphere's square is 8.08274e+06.
+	The density of shape is 209.412.
+----------  73
+	The tetrahedron with the side 185.
+	The tetrahedron`s square is 59279.4.
+	The density of shape is 205.261.
+----------  74
+	The tetrahedron with the side 946.
+	The tetrahedron`s square is 1.55004e+06.
+	The density of shape is 195.892.
+----------  75
+	The parallelepiped with sides x: 934 y: 100 z: 264.
+	The parallelepiped`s square is 2.46576e+07.
+	The density of shape is 186.31.
+----------  76
+	The parallelepiped with sides x: 236 y: 762 z: 57.
+	The parallelepiped`s square is 1.02504e+07.
+	The density of shape is 177.856.
+----------  77
+	The parallelepiped with sides x: 512 y: 509 z: 802.
+	The parallelepiped`s square is 2.09008e+08.
+	The density of shape is 159.729.
+----------  78
+	The parallelepiped with sides x: 615 y: 448 z: 67.
+	The parallelepiped`s square is 1.84598e+07.
+	The density of shape is 141.937.
+----------  79
+	The sphere with the radius is 802.
+	The sphere's square is 8.08274e+06.
+	The density of shape is 136.932.
+----------  80
+	The parallelepiped with sides x: 396 y: 132 z: 627.
+	The parallelepiped`s square is 3.27745e+07.
+	The density of shape is 120.605.
+----------  81
+	The parallelepiped with sides x: 450 y: 39 z: 33.
+	The parallelepiped`s square is 579150.
+	The density of shape is 114.41.
+----------  82
+	The tetrahedron with the side 517.
+	The tetrahedron`s square is 462958.
+	The density of shape is 110.626.
+----------  83
+	The sphere with the radius is 637.
+	The sphere's square is 5.09904e+06.
+	The density of shape is 107.788.
+----------  84
+	The tetrahedron with the side 921.
+	The tetrahedron`s square is 1.4692e+06.
+	The density of shape is 94.6655.
+----------  85
+	The parallelepiped with sides x: 771 y: 606 z: 553.
+	The parallelepiped`s square is 2.58376e+08.
+	The density of shape is 91.8274.
+----------  86
+	The sphere with the radius is 486.
+	The sphere's square is 2.96813e+06.
+	The density of shape is 87.4329.
+----------  87
+	The sphere with the radius is 10.
+	The sphere's square is 1256.64.
+	The density of shape is 71.4111.
+----------  88
+	The parallelepiped with sides x: 414 y: 733 z: 424.
+	The parallelepiped`s square is 1.28668e+08.
+	The density of shape is 70.5261.
+----------  89
+	The tetrahedron with the side 304.
+	The tetrahedron`s square is 160069.
+	The density of shape is 70.5261.
+----------  90
+	The parallelepiped with sides x: 656 y: 244 z: 285.
+	The parallelepiped`s square is 4.56182e+07.
+	The density of shape is 65.0635.
+----------  91
+	The sphere with the radius is 279.
+	The sphere's square is 978179.
+	The density of shape is 58.6243.
+----------  92
+	The tetrahedron with the side 389.
+	The tetrahedron`s square is 262096.
+	The density of shape is 45.0134.
+----------  93
+	The parallelepiped with sides x: 726 y: 858 z: 429.
+	The parallelepiped`s square is 2.67228e+08.
+	The density of shape is 43.3044.
+----------  94
+	The parallelepiped with sides x: 630 y: 186 z: 224.
+	The parallelepiped`s square is 2.62483e+07.
+	The density of shape is 34.1492.
+----------  95
+	The tetrahedron with the side 895.
+	The tetrahedron`s square is 1.38742e+06.
+	The density of shape is 26.7639.
+----------  96
+	The sphere with the radius is 410.
+	The sphere's square is 2.11241e+06.
+	The density of shape is 25.4517.
+----------  97
+	The tetrahedron with the side 252.
+	The tetrahedron`s square is 109992.
+	The density of shape is 15.7471.
+----------  98
+	The parallelepiped with sides x: 746 y: 784 z: 42.
+	The parallelepiped`s square is 2.45643e+07.
+	The density of shape is 7.35474.
+----------  99
+	The sphere with the radius is 729.
+	The sphere's square is 6.67828e+06.
+	The density of shape is 6.83594.
+----------  100
+	The parallelepiped with sides x: 488 y: 437 z: 312.
+	The parallelepiped`s square is 6.65359e+07.
+	The density of shape is 1.92261.
