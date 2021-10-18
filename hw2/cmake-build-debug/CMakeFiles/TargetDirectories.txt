@@ -1,0 +1,3 @@
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw2/cmake-build-debug/CMakeFiles/avs.dir
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
