@@ -1,12 +1,15 @@
+// Description of the Tetrahedron class.
+
 #ifndef AVS_TETRAHEDRON_H
 #define AVS_TETRAHEDRON_H
 
 #include "../../shapes/shape/Shape.h"
 
 class Tetrahedron: public Shape {
-public:
+ public:
     Tetrahedron() = default;
 
+    // Tetrahedron constructor by side and density.
     Tetrahedron(double density, int x): Shape(density), x_(x){
         if (x <= 0) {
             std::cout << "Invalid value: the side must be greater then 0.\n";
@@ -15,11 +18,15 @@ public:
         }
     }
 
+    // Method for writing data to stream.
     void writeData(std::ofstream &output) override;
 
+    // Method for calculating the surface area of a shape.
     double surfaceArea() override;
 
-private:
+ private:
+
+    // The size.
     int x_{};
 };
 

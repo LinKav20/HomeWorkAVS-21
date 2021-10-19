@@ -1,3 +1,5 @@
+// Description of the Container class.
+
 #ifndef AVS_CONTAINER_H
 #define AVS_CONTAINER_H
 
@@ -12,9 +14,10 @@
 #include "../random/Random.h"
 
 class Container {
-public:
+ public:
     Container() = default;
 
+    // Container constructor by size.
     Container(int size) : size_(size) {
         if (size <= 0) {
             std::cout << "Incorrect size. Bye!";
@@ -24,23 +27,31 @@ public:
         }
     }
 
+    // Destructor
     ~Container() noexcept;
 
+    // Method for reading data from stream.
     void readData(std::ifstream &input);
 
+    // Method for setting a random data.
     void rndData();
 
+    // Method for sorting data.
     void sortData();
 
+    // Method for writing data to stream.
     void writeData(std::ofstream &output);
 
+    // Method for set a new size.
     void setSize(int size);
 
-private:
-    int size_{};
-    std::vector<std::unique_ptr<Shape>> data;
+ private:
 
-    static int fp(std::vector<std::unique_ptr<Shape>> arr, int start, int end, std::unique_ptr<Shape> key);
+    // Size of the container.
+    int size_{};
+
+    // Data of the container.
+    std::vector<std::unique_ptr<Shape>> data;
 };
 
 #endif //AVS_CONTAINER_H
