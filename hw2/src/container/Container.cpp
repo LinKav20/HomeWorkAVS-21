@@ -12,7 +12,7 @@ void Container::setSize(int size) {
 
 void Container::readData(std::ifstream &input) {
     for (int i = 0; i < size_; i++) {
-        int type, first_param, sec_param, third_param;
+        int type, firstParam, secParam, thirdParam;
         double density;
         input >> type >> density;
 
@@ -21,20 +21,20 @@ void Container::readData(std::ifstream &input) {
 
             // 1 - sphere.
             case 1:
-                input >> first_param;
-                data.push_back(std::make_unique<Sphere>(density, first_param));
+                input >> firstParam;
+                data.push_back(std::make_unique<Sphere>(density, firstParam));
                 break;
 
             // 2 - parallelepiped.
             case 2:
-                input >> first_param >> sec_param >> third_param;
-                data.push_back(std::make_unique<Parallelepiped>(density, first_param, sec_param, third_param));
+                input >> firstParam >> secParam >> thirdParam;
+                data.push_back(std::make_unique<Parallelepiped>(density, firstParam, secParam, thirdParam));
                 break;
 
             // 3 - tetrahedron.
             case 3:
-                input >> first_param;
-                data.push_back(std::make_unique<Tetrahedron>(density, first_param));
+                input >> firstParam;
+                data.push_back(std::make_unique<Tetrahedron>(density, firstParam));
                 break;
 
             // If is the type incorrect.
@@ -97,10 +97,11 @@ void Container::writeData(std::ofstream &output) {
 void Container::sortData() {
     int size = size_;
     int start = 0, end = 0;
+    std::unique_ptr<Shape> key;
     for (int i = 1; i < size; ++i) {
 
         // Select the current element.
-        std::unique_ptr<Shape> key = std::move(data[i]);
+        key = std::move(data[i]);
 
         start = 0;
         end = i - 1;

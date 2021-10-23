@@ -6,20 +6,6 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Linok/Desktop/HomeWorkAVS-21/hw2/main.cpp
-iostream
--
-cstdlib
--
-cstring
--
-ctime
--
-src/container/Container.h
-C:/Users/Linok/Desktop/HomeWorkAVS-21/hw2/src/container/Container.h
-src/shapes/shape/Shape.h
-C:/Users/Linok/Desktop/HomeWorkAVS-21/hw2/src/shapes/shape/Shape.h
-
 C:/Users/Linok/Desktop/HomeWorkAVS-21/hw2/src/container/Container.cpp
 Container.h
 C:/Users/Linok/Desktop/HomeWorkAVS-21/hw2/src/container/Container.h
