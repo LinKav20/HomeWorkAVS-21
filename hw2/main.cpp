@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <cstring>
+#include <memory>
 #include <ctime>
 
 #include "src/container/Container.h"
@@ -17,7 +18,7 @@ void invalidParametersListException() {
 }
 
 // Error message when entering an incorrect flag.
-void incorrectFlagsException(){
+void incorrectFlagsException() {
     std::cout << "Invalid flags!\n";
     std::cout << "Expected:\n";
     std::cout << "\t-i for input data \n";
@@ -26,7 +27,7 @@ void incorrectFlagsException(){
 }
 
 // Filling and initializing the container.
-void fillContainer(Container& container, char* argv[]) {
+void fillContainer(Container &container, char *argv[]) {
 
     // The variable for read size of container.
     int size = 0;
@@ -61,7 +62,8 @@ void fillContainer(Container& container, char* argv[]) {
     incorrectFlagsException();
 }
 
-int main(int argc, char* argv[]) {
+int main(int argc, char *argv[]) {
+
 
     // We check whether we have received
     // the required number of arguments.

@@ -6,8 +6,18 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Linok/Desktop/HomeWorkAVS-21/hw2/src/container/Container.cpp
-Container.h
+C:/Users/Linok/Desktop/HomeWorkAVS-21/hw2/main.cpp
+iostream
+-
+cstdlib
+-
+cstring
+-
+memory
+-
+ctime
+-
+src/container/Container.h
 C:/Users/Linok/Desktop/HomeWorkAVS-21/hw2/src/container/Container.h
 
 C:/Users/Linok/Desktop/HomeWorkAVS-21/hw2/src/container/Container.h

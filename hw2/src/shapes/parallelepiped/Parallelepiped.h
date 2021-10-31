@@ -35,7 +35,7 @@ class Parallelepiped: public Shape {
     // The second side.
     int y_{};
 
-    // The third siede.
+    // The third side.
     int z_{};
 };
 

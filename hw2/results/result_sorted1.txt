@@ -1,17 +1,17 @@
 There are 3 shapes in the container.
 
-1  ----------  PARALLELEPIPED
-	The parallelepiped with sides x: 189 y: 421 z: 189.
-	The density is 968.781.
-	The surface area is 1.02778e+06.
+1  ----------  TETRAHEDRON
+	The tetrahedron with the side 6.
+	The density is 7.7.
+	The surface area is 62.3538.
 
-2  ----------  PARALLELEPIPED
-	The parallelepiped with sides x: 711 y: 866 z: 711.
-	The density is 621.918.
-	The surface area is 3.25947e+06.
+2  ----------  SPHERE
+	The sphere with the radius is 7.
+	The density is 5.56.
+	The surface area is 615.752.
 
-3  ----------  TETRAHEDRON
-	The tetrahedron with the side 289.
-	The density is 175.201.
-	The surface area is 144663.
+3  ----------  PARALLELEPIPED
+	The parallelepiped with sides x: 6 y: 7 z: 6.
+	The density is 3.45.
+	The surface area is 292.
 
