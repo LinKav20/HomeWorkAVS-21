@@ -1,0 +1,21 @@
+There are 5 shapes in the container.
+----------  1
+	The tetrahedron with the side 5.
+	The tetrahedron`s square is 43.3013.
+	The density of shape is 6.78.
+----------  2
+	The tetrahedron with the side 21.
+	The tetrahedron`s square is 763.834.
+	The density of shape is 6.75.
+----------  3
+	The parallelepiped with sides x: 5 y: 3 z: 1.
+	The parallelepiped`s square is 46.
+	The density of shape is 5.6.
+----------  4
+	The tetrahedron with the side 5.
+	The tetrahedron`s square is 43.3013.
+	The density of shape is 5.
+----------  5
+	The sphere with the radius is 6.
+	The sphere's square is 452.389.
+	The density of shape is 2.3.

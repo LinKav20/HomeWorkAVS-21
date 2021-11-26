@@ -1,0 +1,17 @@
+There are 3 shapes in the container.
+
+0  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 6 y: -858993460 z: -858993460.
+	The density is 7.700000.
+	The surface area is -858993488.
+
+1  ----------  SPHERE
+	The sphere with the radius is 7.
+	The density is 5.560000.
+	The surface area is 615.752032.
+
+2  ----------  TETRAHEDRON
+	The tetrahedron with the side 6.
+	The density is 3.450000.
+	The surface area is 62.353829.
+
