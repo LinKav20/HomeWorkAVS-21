@@ -1,0 +1,5002 @@
+There are 1000 shapes in the container.
+
+0  ----------  TETRAHEDRON
+	The tetrahedron with the side 154.
+	The density is 8469308860.000000.
+	The surface area is 41077.316952.
+
+1  ----------  TETRAHEDRON
+	The tetrahedron with the side 998.
+	The density is 19577477930.000000.
+	The surface area is 1725129.532542.
+
+2  ----------  TETRAHEDRON
+	The tetrahedron with the side 763.
+	The density is 16497604920.000000.
+	The surface area is 1008346.286592.
+
+3  ----------  TETRAHEDRON
+	The tetrahedron with the side 869.
+	The density is 10252023620.000000.
+	The surface area is 1307977.219895.
+
+4  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 708 y: 410 z: 88.
+	The density is 11025200590.000000.
+	The surface area is 1741680.
+
+5  ----------  SPHERE
+	The sphere with the radius is 497.
+	The density is 3040891720.000000.
+	The surface area is 3104005.993312.
+
+6  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 565 y: 115 z: 585.
+	The density is 5215953680.000000.
+	The surface area is 389850.
+
+7  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 23 y: 389 z: 308.
+	The density is 2787228620.000000.
+	The surface area is 53682.
+
+8  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 973 y: 418 z: 573.
+	The density is 18019798020.000000.
+	The surface area is 2440284.
+
+9  ----------  SPHERE
+	The sphere with the radius is 566.
+	The density is 10599613930.000000.
+	The surface area is 4025711.387008.
+
+10  ----------  TETRAHEDRON
+	The tetrahedron with the side 538.
+	The density is 16564780420.000000.
+	The surface area is 501331.713946.
+
+11  ----------  SPHERE
+	The sphere with the radius is 381.
+	The density is 8594844210.000000.
+	The surface area is 1824146.545248.
+
+12  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 510 y: 894 z: 264.
+	The density is 7568985370.000000.
+	The surface area is 2735640.
+
+13  ----------  SPHERE
+	The sphere with the radius is 515.
+	The density is 11295664130.000000.
+	The surface area is 3332914.952800.
+
+14  ----------  TETRAHEDRON
+	The tetrahedron with the side 630.
+	The density is 14242689800.000000.
+	The surface area is 687450.965524.
+
+15  ----------  SPHERE
+	The sphere with the radius is 213.
+	The density is 1378068620.000000.
+	The surface area is 570123.549792.
+
+16  ----------  TETRAHEDRON
+	The tetrahedron with the side 520.
+	The density is 1354972810.000000.
+	The surface area is 468346.538367.
+
+17  ----------  SPHERE
+	The sphere with the radius is 493.
+	The density is 19374770840.000000.
+	The surface area is 3054243.176032.
+
+18  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 404 y: 985 z: 77.
+	The density is 11591265050.000000.
+	The surface area is 2387640.
+
+19  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 334 y: 343 z: 649.
+	The density is 11416161240.000000.
+	The surface area is 687372.
+
+20  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 561 y: 942 z: 763.
+	The density is 15482333670.000000.
+	The surface area is 3170772.
+
+21  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 592 y: 340 z: 18.
+	The density is 14771710870.000000.
+	The surface area is 1207680.
+
+22  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 601 y: 75 z: 900.
+	The density is 7093935840.000000.
+	The surface area is 270450.
+
+23  ----------  TETRAHEDRON
+	The tetrahedron with the side 421.
+	The density is 20539999320.000000.
+	The surface area is 306990.417184.
+
+24  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 632 y: 209 z: 719.
+	The density is 18439933680.000000.
+	The surface area is 792528.
+
+25  ----------  SPHERE
+	The sphere with the radius is 795.
+	The density is 14693480940.000000.
+	The surface area is 7942258.735200.
+
+26  ----------  SPHERE
+	The sphere with the radius is 129.
+	The density is 4634805700.000000.
+	The surface area is 209116.929888.
+
+27  ----------  TETRAHEDRON
+	The tetrahedron with the side 562.
+	The density is 3170974670.000000.
+	The surface area is 547057.855266.
+
+28  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 223 y: 667 z: 269.
+	The density is 9276129020.000000.
+	The surface area is 892446.
+
+29  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 327 y: 414 z: 245.
+	The density is 9599973010.000000.
+	The surface area is 812268.
+
+30  ----------  SPHERE
+	The sphere with the radius is 38.
+	The density is 8944296890.000000.
+	The surface area is 18145.835392.
+
+31  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 745 y: 55 z: 860.
+	The density is 2215584400.000000.
+	The surface area is 245850.
+
+32  ----------  SPHERE
+	The sphere with the radius is 787.
+	The density is 20079057710.000000.
+	The surface area is 7783218.781792.
+
+33  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 419 y: 904 z: 134.
+	The density is 16101207090.000000.
+	The surface area is 2272656.
+
+34  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 169 y: 816 z: 32.
+	The density is 5248723530.000000.
+	The surface area is 827424.
+
+35  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 255 y: 740 z: 247.
+	The density is 3524062190.000000.
+	The surface area is 1132200.
+
+36  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 292 y: 66 z: 244.
+	The density is 11200488290.000000.
+	The surface area is 115632.
+
+37  ----------  SPHERE
+	The sphere with the radius is 282.
+	The density is 14099597080.000000.
+	The surface area is 999327.848832.
+
+38  ----------  TETRAHEDRON
+	The tetrahedron with the side 745.
+	The density is 16315181490.000000.
+	The surface area is 961331.499471.
+
+39  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 416 y: 120 z: 385.
+	The density is 11171426180.000000.
+	The surface area is 299520.
+
+40  ----------  TETRAHEDRON
+	The tetrahedron with the side 804.
+	The density is 17602435550.000000.
+	The surface area is 1119625.354825.
+
+41  ----------  TETRAHEDRON
+	The tetrahedron with the side 456.
+	The density is 1115377640.000000.
+	The surface area is 360155.716723.
+
+42  ----------  TETRAHEDRON
+	The tetrahedron with the side 272.
+	The density is 4387923500.000000.
+	The surface area is 128144.046947.
+
+43  ----------  TETRAHEDRON
+	The tetrahedron with the side 968.
+	The density is 21427570340.000000.
+	The surface area is 1622973.175911.
+
+44  ----------  SPHERE
+	The sphere with the radius is 933.
+	The density is 1553249140.000000.
+	The surface area is 10938885.113952.
+
+45  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 226 y: 900 z: 356.
+	The density is 12753737430.000000.
+	The surface area is 1220400.
+
+46  ----------  SPHERE
+	The sphere with the radius is 356.
+	The density is 17602819360.000000.
+	The surface area is 1592611.214848.
+
+47  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 101 y: 906 z: 597.
+	The density is 12443164370.000000.
+	The surface area is 549036.
+
+48  ----------  SPHERE
+	The sphere with the radius is 981.
+	The density is 16262761210.000000.
+	The surface area is 12093382.474848.
+
+49  ----------  TETRAHEDRON
+	The tetrahedron with the side 785.
+	The density is 12390360290.000000.
+	The surface area is 1067333.008894.
+
+50  ----------  SPHERE
+	The sphere with the radius is 960.
+	The density is 13505737930.000000.
+	The surface area is 11581164.748800.
+
+51  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 232 y: 142 z: 955.
+	The density is 17893661430.000000.
+	The surface area is 197664.
+
+52  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 350 y: 134 z: 162.
+	The density is 15973224040.000000.
+	The surface area is 281400.
+
+53  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 62 y: 818 z: 329.
+	The density is 3521186060.000000.
+	The surface area is 304296.
+
+54  ----------  SPHERE
+	The sphere with the radius is 520.
+	The density is 5326706880.000000.
+	The surface area is 3397945.907200.
+
+55  ----------  SPHERE
+	The sphere with the radius is 145.
+	The density is 15045699170.000000.
+	The surface area is 264207.887200.
+
+56  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 889 y: 57 z: 270.
+	The density is 4969877430.000000.
+	The surface area is 304038.
+
+57  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 21 y: 632 z: 520.
+	The density is 10966897720.000000.
+	The surface area is 79632.
+
+58  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 471 y: 530 z: 607.
+	The density is 2432681390.000000.
+	The surface area is 1497780.
+
+59  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 675 y: 242 z: 454.
+	The density is 7223085420.000000.
+	The surface area is 980100.
+
+60  ----------  SPHERE
+	The sphere with the radius is 516.
+	The density is 12852288040.000000.
+	The surface area is 3345870.878208.
+
+61  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 994 y: 285 z: 886.
+	The density is 14505736220.000000.
+	The surface area is 1699740.
+
+62  ----------  TETRAHEDRON
+	The tetrahedron with the side 32.
+	The density is 3920355680.000000.
+	The surface area is 1773.620027.
+
+63  ----------  TETRAHEDRON
+	The tetrahedron with the side 920.
+	The density is 8890233110.000000.
+	The surface area is 1466007.803526.
+
+64  ----------  SPHERE
+	The sphere with the radius is 833.
+	The density is 13693218010.000000.
+	The surface area is 8719664.525152.
+
+65  ----------  SPHERE
+	The sphere with the radius is 465.
+	The density is 13080448780.000000.
+	The surface area is 2717162.920800.
+
+66  ----------  SPHERE
+	The sphere with the radius is 116.
+	The density is 7051787360.000000.
+	The surface area is 169093.047808.
+
+67  ----------  SPHERE
+	The sphere with the radius is 441.
+	The density is 19776485220.000000.
+	The surface area is 2443919.815008.
+
+68  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 835 y: 660 z: 897.
+	The density is 5524734160.000000.
+	The surface area is 3306600.
+
+69  ----------  SPHERE
+	The sphere with the radius is 132.
+	The density is 14734420620.000000.
+	The surface area is 218956.396032.
+
+70  ----------  SPHERE
+	The sphere with the radius is 126.
+	The density is 7765320360.000000.
+	The surface area is 199503.658368.
+
+71  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 317 y: 84 z: 981.
+	The density is 14314193790.000000.
+	The surface area is 159768.
+
+72  ----------  SPHERE
+	The sphere with the radius is 901.
+	The density is 4074871310.000000.
+	The surface area is 10201390.108768.
+
+73  ----------  TETRAHEDRON
+	The tetrahedron with the side 453.
+	The density is 17768089330.000000.
+	The surface area is 355432.414170.
+
+74  ----------  TETRAHEDRON
+	The tetrahedron with the side 917.
+	The density is 9373701630.000000.
+	The surface area is 1456462.471526.
+
+75  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 752 y: 373 z: 961.
+	The density is 16425488990.000000.
+	The surface area is 1682976.
+
+76  ----------  TETRAHEDRON
+	The tetrahedron with the side 405.
+	The density is 16627396680.000000.
+	The surface area is 284099.633711.
+
+77  ----------  TETRAHEDRON
+	The tetrahedron with the side 21.
+	The density is 18509529260.000000.
+	The surface area is 763.834406.
+
+78  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 152 y: 957 z: 775.
+	The density is 11769113400.000000.
+	The surface area is 872784.
+
+79  ----------  SPHERE
+	The sphere with the radius is 725.
+	The density is 10697559360.000000.
+	The surface area is 6605197.180000.
+
+80  ----------  SPHERE
+	The sphere with the radius is 707.
+	The density is 5882197560.000000.
+	The surface area is 6281286.478432.
+
+81  ----------  SPHERE
+	The sphere with the radius is 327.
+	The density is 9957068870.000000.
+	The surface area is 1343709.163872.
+
+82  ----------  TETRAHEDRON
+	The tetrahedron with the side 499.
+	The density is 6250321720.000000.
+	The surface area is 431282.383135.
+
+83  ----------  SPHERE
+	The sphere with the radius is 135.
+	The density is 15624023360.000000.
+	The surface area is 229022.056800.
+
+84  ----------  SPHERE
+	The sphere with the radius is 886.
+	The density is 10574675870.000000.
+	The surface area is 9864548.614528.
+
+85  ----------  SPHERE
+	The sphere with the radius is 517.
+	The density is 3826977130.000000.
+	The surface area is 3358851.936352.
+
+86  ----------  TETRAHEDRON
+	The tetrahedron with the side 981.
+	The density is 2604012550.000000.
+	The surface area is 1666858.147223.
+
+87  ----------  TETRAHEDRON
+	The tetrahedron with the side 138.
+	The density is 6975177210.000000.
+	The surface area is 32985.175579.
+
+88  ----------  TETRAHEDRON
+	The tetrahedron with the side 813.
+	The density is 13359398110.000000.
+	The surface area is 1144831.890228.
+
+89  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 295 y: 786 z: 396.
+	The density is 10653117050.000000.
+	The surface area is 1391220.
+
+90  ----------  SPHERE
+	The sphere with the radius is 10.
+	The density is 5559966580.000000.
+	The surface area is 1256.636800.
+
+91  ----------  TETRAHEDRON
+	The tetrahedron with the side 528.
+	The density is 2316024220.000000.
+	The surface area is 482868.052337.
+
+92  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 988 y: 21 z: 890.
+	The density is 6190540810.000000.
+	The surface area is 124488.
+
+93  ----------  SPHERE
+	The sphere with the radius is 495.
+	The density is 12532076720.000000.
+	The surface area is 3079074.319200.
+
+94  ----------  TETRAHEDRON
+	The tetrahedron with the side 12.
+	The density is 16359053850.000000.
+	The surface area is 249.415316.
+
+95  ----------  TETRAHEDRON
+	The tetrahedron with the side 993.
+	The density is 18963066400.000000.
+	The surface area is 1707886.966752.
+
+96  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 849 y: 363 z: 589.
+	The density is 4463407130.000000.
+	The surface area is 1849122.
+
+97  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 391 y: 676 z: 209.
+	The density is 5246882090.000000.
+	The surface area is 1585896.
+
+98  ----------  SPHERE
+	The sphere with the radius is 420.
+	The density is 7263711550.000000.
+	The surface area is 2216707.315200.
+
+99  ----------  TETRAHEDRON
+	The tetrahedron with the side 396.
+	The density is 8821603790.000000.
+	The surface area is 271613.279440.
+
+100  ----------  SPHERE
+	The sphere with the radius is 151.
+	The density is 16629817760.000000.
+	The surface area is 286525.756768.
+
+101  ----------  TETRAHEDRON
+	The tetrahedron with the side 41.
+	The density is 18587218600.000000.
+	The surface area is 2911.577408.
+
+102  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 536 y: 950 z: 942.
+	The density is 9644458840.000000.
+	The surface area is 3055200.
+
+103  ----------  TETRAHEDRON
+	The tetrahedron with the side 506.
+	The density is 18579625040.000000.
+	The surface area is 443467.360567.
+
+104  ----------  TETRAHEDRON
+	The tetrahedron with the side 7.
+	The density is 8222627540.000000.
+	The surface area is 84.870490.
+
+105  ----------  SPHERE
+	The sphere with the radius is 314.
+	The density is 17375189440.000000.
+	The surface area is 1238993.619328.
+
+106  ----------  TETRAHEDRON
+	The tetrahedron with the side 705.
+	The density is 1147235060.000000.
+	The surface area is 860872.552632.
+
+107  ----------  TETRAHEDRON
+	The tetrahedron with the side 211.
+	The density is 14862228420.000000.
+	The surface area is 77112.634004.
+
+108  ----------  SPHERE
+	The sphere with the radius is 725.
+	The density is 12662351890.000000.
+	The surface area is 6605197.180000.
+
+109  ----------  SPHERE
+	The sphere with the radius is 487.
+	The density is 12778499580.000000.
+	The surface area is 2980352.932192.
+
+110  ----------  SPHERE
+	The sphere with the radius is 236.
+	The density is 19085188080.000000.
+	The surface area is 699896.432128.
+
+111  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 497 y: 596 z: 252.
+	The density is 13093833030.000000.
+	The surface area is 1777272.
+
+112  ----------  SPHERE
+	The sphere with the radius is 236.
+	The density is 17819997540.000000.
+	The surface area is 699896.432128.
+
+113  ----------  SPHERE
+	The sphere with the radius is 214.
+	The density is 19836903680.000000.
+	The surface area is 575489.388928.
+
+114  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 40 y: 972 z: 84.
+	The density is 4842380460.000000.
+	The surface area is 233280.
+
+115  ----------  TETRAHEDRON
+	The tetrahedron with the side 788.
+	The density is 7392733030.000000.
+	The surface area is 1075506.556655.
+
+116  ----------  SPHERE
+	The sphere with the radius is 717.
+	The density is 780124970.000000.
+	The surface area is 6460231.558752.
+
+117  ----------  TETRAHEDRON
+	The tetrahedron with the side 442.
+	The density is 13442476860.000000.
+	The surface area is 338380.373970.
+
+118  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 647 y: 714 z: 43.
+	The density is 4746139960.000000.
+	The surface area is 2771748.
+
+119  ----------  SPHERE
+	The sphere with the radius is 40.
+	The density is 16798954360.000000.
+	The surface area is 20106.188800.
+
+120  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 10 y: 264 z: 585.
+	The density is 8615439210.000000.
+	The surface area is 15840.
+
+121  ----------  TETRAHEDRON
+	The tetrahedron with the side 348.
+	The density is 11442780500.000000.
+	The surface area is 209758.281000.
+
+122  ----------  TETRAHEDRON
+	The tetrahedron with the side 117.
+	The density is 313089020.000000.
+	The surface area is 23710.043505.
+
+123  ----------  SPHERE
+	The sphere with the radius is 200.
+	The density is 6558586990.000000.
+	The surface area is 502654.720000.
+
+124  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 706 y: 187 z: 120.
+	The density is 13951320020.000000.
+	The surface area is 792132.
+
+125  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 118 y: 584 z: 60.
+	The density is 14986176470.000000.
+	The surface area is 413472.
+
+126  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 773 y: 246 z: 832.
+	The density is 18122821340.000000.
+	The surface area is 1140948.
+
+127  ----------  SPHERE
+	The sphere with the radius is 930.
+	The density is 7777205040.000000.
+	The surface area is 10868651.683200.
+
+128  ----------  TETRAHEDRON
+	The tetrahedron with the side 912.
+	The density is 14555909640.000000.
+	The surface area is 1440622.866891.
+
+129  ----------  TETRAHEDRON
+	The tetrahedron with the side 386.
+	The density is 1364953430.000000.
+	The surface area is 258068.642125.
+
+130  ----------  SPHERE
+	The sphere with the radius is 629.
+	The density is 13292029000.000000.
+	The surface area is 4971770.401888.
+
+131  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 562 y: 519 z: 269.
+	The density is 24169490.000000.
+	The surface area is 1750068.
+
+132  ----------  SPHERE
+	The sphere with the radius is 174.
+	The density is 18415857950.000000.
+	The surface area is 380459.357568.
+
+133  ----------  SPHERE
+	The sphere with the radius is 938.
+	The density is 14331028290.000000.
+	The surface area is 11056443.486592.
+
+134  ----------  SPHERE
+	The sphere with the radius is 997.
+	The density is 6726553400.000000.
+	The surface area is 12491082.889312.
+
+135  ----------  SPHERE
+	The sphere with the radius is 489.
+	The density is 3374538260.000000.
+	The surface area is 3004882.482528.
+
+136  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 994 y: 937 z: 100.
+	The density is 14509560420.000000.
+	The surface area is 5588268.
+
+137  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 13 y: 682 z: 925.
+	The density is 18660000810.000000.
+	The surface area is 53196.
+
+138  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 78 y: 745 z: 484.
+	The density is 19898063670.000000.
+	The surface area is 348660.
+
+139  ----------  TETRAHEDRON
+	The tetrahedron with the side 3.
+	The density is 20167645240.000000.
+	The surface area is 15.588457.
+
+140  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 946 y: 888 z: 51.
+	The density is 12766731680.000000.
+	The surface area is 5040288.
+
+141  ----------  TETRAHEDRON
+	The tetrahedron with the side 817.
+	The density is 18775651000.000000.
+	The surface area is 1156124.861493.
+
+142  ----------  SPHERE
+	The sphere with the radius is 788.
+	The density is 16306349940.000000.
+	The surface area is 7803010.811392.
+
+143  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 722 y: 487 z: 182.
+	The density is 5643255780.000000.
+	The surface area is 2109684.
+
+144  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 727 y: 328 z: 318.
+	The density is 18577569700.000000.
+	The surface area is 1430736.
+
+145  ----------  TETRAHEDRON
+	The tetrahedron with the side 434.
+	The density is 12818308570.000000.
+	The surface area is 326242.161910.
+
+146  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 898 y: 215 z: 213.
+	The density is 3185618860.000000.
+	The surface area is 1158420.
+
+147  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 646 y: 762 z: 881.
+	The density is 17880144120.000000.
+	The surface area is 2953512.
+
+148  ----------  SPHERE
+	The sphere with the radius is 912.
+	The density is 1041522740.000000.
+	The surface area is 10452001.185792.
+
+149  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 331 y: 496 z: 854.
+	The density is 13693566200.000000.
+	The surface area is 985056.
+
+150  ----------  TETRAHEDRON
+	The tetrahedron with the side 296.
+	The density is 8735245660.000000.
+	The surface area is 151755.363556.
+
+151  ----------  TETRAHEDRON
+	The tetrahedron with the side 955.
+	The density is 12320568560.000000.
+	The surface area is 1579673.637773.
+
+152  ----------  SPHERE
+	The sphere with the radius is 2.
+	The density is 9593722600.000000.
+	The surface area is 50.265472.
+
+153  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 692 y: 630 z: 451.
+	The density is 1261072050.000000.
+	The surface area is 2615760.
+
+154  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 665 y: 672 z: 171.
+	The density is 4719907830.000000.
+	The surface area is 2681280.
+
+155  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 932 y: 482 z: 289.
+	The density is 9418042890.000000.
+	The surface area is 2695344.
+
+156  ----------  SPHERE
+	The sphere with the radius is 523.
+	The density is 16471493140.000000.
+	The surface area is 3437266.072672.
+
+157  ----------  SPHERE
+	The sphere with the radius is 20.
+	The density is 4705911000.000000.
+	The surface area is 5026.547200.
+
+158  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 984 y: 679 z: 103.
+	The density is 10010894380.000000.
+	The surface area is 4008816.
+
+159  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 263 y: 442 z: 73.
+	The density is 16755181570.000000.
+	The surface area is 697476.
+
+160  ----------  TETRAHEDRON
+	The tetrahedron with the side 764.
+	The density is 20691106990.000000.
+	The surface area is 1010991.128175.
+
+161  ----------  TETRAHEDRON
+	The tetrahedron with the side 224.
+	The density is 12042755690.000000.
+	The surface area is 86907.381321.
+
+162  ----------  TETRAHEDRON
+	The tetrahedron with the side 614.
+	The density is 4102287940.000000.
+	The surface area is 652976.226250.
+
+163  ----------  TETRAHEDRON
+	The tetrahedron with the side 650.
+	The density is 14041964310.000000.
+	The surface area is 731791.466198.
+
+164  ----------  SPHERE
+	The sphere with the radius is 657.
+	The density is 13025393900.000000.
+	The surface area is 5424260.180832.
+
+165  ----------  TETRAHEDRON
+	The tetrahedron with the side 898.
+	The density is 8022050570.000000.
+	The surface area is 1396732.699427.
+
+166  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 917 y: 405 z: 476.
+	The density is 12727961570.000000.
+	The surface area is 2228310.
+
+167  ----------  TETRAHEDRON
+	The tetrahedron with the side 578.
+	The density is 12103592310.000000.
+	The surface area is 578650.461996.
+
+168  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 559 y: 630 z: 945.
+	The density is 7383937400.000000.
+	The surface area is 2113020.
+
+169  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 710 y: 542 z: 998.
+	The density is 19052410810.000000.
+	The surface area is 2308920.
+
+170  ----------  SPHERE
+	The sphere with the radius is 432.
+	The density is 17077461390.000000.
+	The surface area is 2345185.861632.
+
+171  ----------  TETRAHEDRON
+	The tetrahedron with the side 185.
+	The density is 3335823380.000000.
+	The surface area is 59279.438889.
+
+172  ----------  SPHERE
+	The sphere with the radius is 418.
+	The density is 7860390210.000000.
+	The surface area is 2195646.082432.
+
+173  ----------  SPHERE
+	The sphere with the radius is 202.
+	The density is 10217848120.000000.
+	The surface area is 512758.079872.
+
+174  ----------  SPHERE
+	The sphere with the radius is 429.
+	The density is 2626926850.000000.
+	The surface area is 2312726.933088.
+
+175  ----------  SPHERE
+	The sphere with the radius is 904.
+	The density is 15433241760.000000.
+	The surface area is 10269436.991488.
+
+176  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 202 y: 71 z: 439.
+	The density is 6061997590.000000.
+	The surface area is 86052.
+
+177  ----------  SPHERE
+	The sphere with the radius is 104.
+	The density is 2720201270.000000.
+	The surface area is 135917.836288.
+
+178  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 532 y: 39 z: 367.
+	The density is 297775600.000000.
+	The surface area is 124488.
+
+179  ----------  SPHERE
+	The sphere with the radius is 517.
+	The density is 19654212440.000000.
+	The surface area is 3358851.936352.
+
+180  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 701 y: 520 z: 453.
+	The density is 1515199340.000000.
+	The surface area is 2187120.
+
+181  ----------  SPHERE
+	The sphere with the radius is 74.
+	The density is 5241335890.000000.
+	The surface area is 68813.431168.
+
+182  ----------  SPHERE
+	The sphere with the radius is 433.
+	The density is 4095449180.000000.
+	The surface area is 2356055.769952.
+
+183  ----------  TETRAHEDRON
+	The tetrahedron with the side 479.
+	The density is 17478448220.000000.
+	The surface area is 397403.469339.
+
+184  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 763 y: 12 z: 89.
+	The density is 21431240300.000000.
+	The surface area is 54936.
+
+185  ----------  TETRAHEDRON
+	The tetrahedron with the side 508.
+	The density is 15027814860.000000.
+	The surface area is 446979.959604.
+
+186  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 876 y: 556 z: 306.
+	The density is 13888030740.000000.
+	The surface area is 2922336.
+
+187  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 657 y: 759 z: 625.
+	The density is 15004747620.000000.
+	The surface area is 2991978.
+
+188  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 145 y: 435 z: 18.
+	The density is 6398067320.000000.
+	The surface area is 378450.
+
+189  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 775 y: 983 z: 660.
+	The density is 2178711370.000000.
+	The surface area is 4570950.
+
+190  ----------  TETRAHEDRON
+	The tetrahedron with the side 139.
+	The density is 1246663280.000000.
+	The surface area is 33464.953653.
+
+191  ----------  TETRAHEDRON
+	The tetrahedron with the side 901.
+	The density is 1203067100.000000.
+	The surface area is 1406080.577635.
+
+192  ----------  TETRAHEDRON
+	The tetrahedron with the side 822.
+	The density is 5518368360.000000.
+	The surface area is 1170319.017861.
+
+193  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 846 y: 262 z: 610.
+	The density is 12553870900.000000.
+	The surface area is 1329912.
+
+194  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 571 y: 859 z: 662.
+	The density is 12503726610.000000.
+	The surface area is 2942934.
+
+195  ----------  SPHERE
+	The sphere with the radius is 644.
+	The density is 11557226040.000000.
+	The surface area is 5211725.198848.
+
+196  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 79 y: 963 z: 457.
+	The density is 7463492500.000000.
+	The surface area is 456462.
+
+197  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 441 y: 965 z: 420.
+	The density is 14600821950.000000.
+	The surface area is 2553390.
+
+198  ----------  TETRAHEDRON
+	The tetrahedron with the side 911.
+	The density is 7148802260.000000.
+	The surface area is 1437465.338268.
+
+199  ----------  SPHERE
+	The sphere with the radius is 415.
+	The density is 5542905960.000000.
+	The surface area is 2164242.728800.
+
+200  ----------  TETRAHEDRON
+	The tetrahedron with the side 408.
+	The density is 18148875600.000000.
+	The surface area is 288324.105631.
+
+201  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 388 y: 703 z: 232.
+	The density is 6903677700.000000.
+	The surface area is 1636584.
+
+202  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 809 y: 55 z: 42.
+	The density is 5502451960.000000.
+	The surface area is 266970.
+
+203  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 987 y: 640 z: 776.
+	The density is 11403841720.000000.
+	The surface area is 3790080.
+
+204  ----------  SPHERE
+	The sphere with the radius is 800.
+	The density is 7729700720.000000.
+	The surface area is 8042475.520000.
+
+205  ----------  TETRAHEDRON
+	The tetrahedron with the side 765.
+	The density is 109010630.000000.
+	The surface area is 1013639.433859.
+
+206  ----------  SPHERE
+	The sphere with the radius is 587.
+	The density is 15209820300.000000.
+	The surface area is 4329980.855392.
+
+207  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 748 y: 592 z: 591.
+	The density is 10038860590.000000.
+	The surface area is 2656896.
+
+208  ----------  SPHERE
+	The sphere with the radius is 685.
+	The density is 931894350.000000.
+	The surface area is 5896454.024800.
+
+209  ----------  TETRAHEDRON
+	The tetrahedron with the side 388.
+	The density is 15276229540.000000.
+	The surface area is 260749.856775.
+
+210  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 381 y: 320 z: 272.
+	The density is 20649454860.000000.
+	The surface area is 731520.
+
+211  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 688 y: 846 z: 971.
+	The density is 16696792620.000000.
+	The surface area is 3492288.
+
+212  ----------  TETRAHEDRON
+	The tetrahedron with the side 506.
+	The density is 19812083240.000000.
+	The surface area is 443467.360567.
+
+213  ----------  SPHERE
+	The sphere with the radius is 481.
+	The density is 20324541540.000000.
+	The surface area is 2907367.466848.
+
+214  ----------  SPHERE
+	The sphere with the radius is 16.
+	The density is 5139374570.000000.
+	The surface area is 3216.990208.
+
+215  ----------  SPHERE
+	The sphere with the radius is 684.
+	The density is 16035911710.000000.
+	The surface area is 5879250.667008.
+
+216  ----------  SPHERE
+	The sphere with the radius is 276.
+	The density is 20137252180.000000.
+	The surface area is 957255.648768.
+
+217  ----------  TETRAHEDRON
+	The tetrahedron with the side 960.
+	The density is 21069146530.000000.
+	The surface area is 1596258.024255.
+
+218  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 67 y: 603 z: 719.
+	The density is 14870539590.000000.
+	The surface area is 242406.
+
+219  ----------  SPHERE
+	The sphere with the radius is 709.
+	The density is 12895470840.000000.
+	The surface area is 6316874.432608.
+
+220  ----------  SPHERE
+	The sphere with the radius is 397.
+	The density is 8117426980.000000.
+	The surface area is 1980572.694112.
+
+221  ----------  SPHERE
+	The sphere with the radius is 861.
+	The density is 2457988980.000000.
+	The surface area is 9315712.492128.
+
+222  ----------  SPHERE
+	The sphere with the radius is 844.
+	The density is 4528251710.000000.
+	The surface area is 8951476.315648.
+
+223  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 592 y: 377 z: 665.
+	The density is 6707525060.000000.
+	The surface area is 1339104.
+
+224  ----------  TETRAHEDRON
+	The tetrahedron with the side 349.
+	The density is 11058165390.000000.
+	The surface area is 210965.520413.
+
+225  ----------  TETRAHEDRON
+	The tetrahedron with the side 343.
+	The density is 9720581090.000000.
+	The surface area is 203774.045460.
+
+226  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 22 y: 792 z: 757.
+	The density is 9314891140.000000.
+	The surface area is 104544.
+
+227  ----------  TETRAHEDRON
+	The tetrahedron with the side 476.
+	The density is 1807851470.000000.
+	The surface area is 392441.143776.
+
+228  ----------  TETRAHEDRON
+	The tetrahedron with the side 186.
+	The density is 14703322310.000000.
+	The surface area is 59922.029739.
+
+229  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 301 y: 868 z: 950.
+	The density is 1345912810.000000.
+	The surface area is 1567608.
+
+230  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 400 y: 724 z: 160.
+	The density is 2352022540.000000.
+	The surface area is 1737600.
+
+231  ----------  SPHERE
+	The sphere with the radius is 255.
+	The density is 11583814940.000000.
+	The surface area is 817128.079200.
+
+232  ----------  TETRAHEDRON
+	The tetrahedron with the side 717.
+	The density is 12405546030.000000.
+	The surface area is 890428.267612.
+
+233  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 576 y: 406 z: 984.
+	The density is 16948879820.000000.
+	The surface area is 1403136.
+
+234  ----------  TETRAHEDRON
+	The tetrahedron with the side 776.
+	The density is 8317688250.000000.
+	The surface area is 1042999.427099.
+
+235  ----------  TETRAHEDRON
+	The tetrahedron with the side 889.
+	The density is 18237968920.000000.
+	The surface area is 1368876.126289.
+
+236  ----------  SPHERE
+	The sphere with the radius is 643.
+	The density is 13640900320.000000.
+	The surface area is 5195552.283232.
+
+237  ----------  SPHERE
+	The sphere with the radius is 650.
+	The density is 10788985060.000000.
+	The surface area is 5309290.480000.
+
+238  ----------  TETRAHEDRON
+	The tetrahedron with the side 601.
+	The density is 632997080.000000.
+	The surface area is 625618.483745.
+
+239  ----------  TETRAHEDRON
+	The tetrahedron with the side 719.
+	The density is 2985019620.000000.
+	The surface area is 895402.717532.
+
+240  ----------  SPHERE
+	The sphere with the radius is 50.
+	The density is 16694757760.000000.
+	The surface area is 31415.920000.
+
+241  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 763 y: 745 z: 333.
+	The density is 3951913090.000000.
+	The surface area is 3410610.
+
+242  ----------  SPHERE
+	The sphere with the radius is 908.
+	The density is 2195442660.000000.
+	The surface area is 10360518.026752.
+
+243  ----------  TETRAHEDRON
+	The tetrahedron with the side 739.
+	The density is 4289036820.000000.
+	The surface area is 945909.319080.
+
+244  ----------  TETRAHEDRON
+	The tetrahedron with the side 327.
+	The density is 20336690860.000000.
+	The surface area is 185206.460803.
+
+245  ----------  TETRAHEDRON
+	The tetrahedron with the side 391.
+	The density is 16717359900.000000.
+	The surface area is 264797.659512.
+
+246  ----------  SPHERE
+	The sphere with the radius is 77.
+	The density is 6326514760.000000.
+	The surface area is 74505.995872.
+
+247  ----------  TETRAHEDRON
+	The tetrahedron with the side 64.
+	The density is 18756418920.000000.
+	The surface area is 7094.480108.
+
+248  ----------  SPHERE
+	The sphere with the radius is 213.
+	The density is 13515388390.000000.
+	The surface area is 570123.549792.
+
+249  ----------  SPHERE
+	The sphere with the radius is 523.
+	The density is 16606511360.000000.
+	The surface area is 3437266.072672.
+
+250  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 150 y: 674 z: 700.
+	The density is 13262476430.000000.
+	The surface area is 606600.
+
+251  ----------  SPHERE
+	The sphere with the radius is 245.
+	The density is 18898043100.000000.
+	The surface area is 754296.239200.
+
+252  ----------  TETRAHEDRON
+	The tetrahedron with the side 195.
+	The density is 7726342250.000000.
+	The surface area is 65861.231958.
+
+253  ----------  TETRAHEDRON
+	The tetrahedron with the side 291.
+	The density is 13905434370.000000.
+	The surface area is 146671.794436.
+
+254  ----------  SPHERE
+	The sphere with the radius is 901.
+	The density is 18671077220.000000.
+	The surface area is 10201390.108768.
+
+255  ----------  TETRAHEDRON
+	The tetrahedron with the side 718.
+	The density is 17304186570.000000.
+	The surface area is 892913.760521.
+
+256  ----------  SPHERE
+	The sphere with the radius is 738.
+	The density is 7876891260.000000.
+	The surface area is 6844196.932992.
+
+257  ----------  TETRAHEDRON
+	The tetrahedron with the side 829.
+	The density is 12877266510.000000.
+	The surface area is 1190336.329044.
+
+258  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 964 y: 78 z: 121.
+	The density is 9281405280.000000.
+	The surface area is 451152.
+
+259  ----------  TETRAHEDRON
+	The tetrahedron with the side 988.
+	The density is 6279923930.000000.
+	The surface area is 1690731.003504.
+
+260  ----------  SPHERE
+	The sphere with the radius is 602.
+	The density is 12384989760.000000.
+	The surface area is 4554102.028672.
+
+261  ----------  TETRAHEDRON
+	The tetrahedron with the side 246.
+	The density is 16094169310.000000.
+	The surface area is 104816.786671.
+
+262  ----------  SPHERE
+	The sphere with the radius is 904.
+	The density is 4133600990.000000.
+	The surface area is 10269436.991488.
+
+263  ----------  TETRAHEDRON
+	The tetrahedron with the side 791.
+	The density is 6295809520.000000.
+	The surface area is 1083711.281331.
+
+264  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 79 y: 528 z: 501.
+	The density is 19343927350.000000.
+	The surface area is 250272.
+
+265  ----------  SPHERE
+	The sphere with the radius is 957.
+	The density is 3766967760.000000.
+	The surface area is 11508895.566432.
+
+266  ----------  TETRAHEDRON
+	The tetrahedron with the side 786.
+	The density is 16644234280.000000.
+	The surface area is 1070054.060713.
+
+267  ----------  TETRAHEDRON
+	The tetrahedron with the side 750.
+	The density is 4450803080.000000.
+	The surface area is 974278.579257.
+
+268  ----------  TETRAHEDRON
+	The tetrahedron with the side 929.
+	The density is 14343221970.000000.
+	The surface area is 1494830.861015.
+
+269  ----------  TETRAHEDRON
+	The tetrahedron with the side 782.
+	The density is 19162507740.000000.
+	The surface area is 1059190.638048.
+
+270  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 360 y: 854 z: 509.
+	The density is 4155223250.000000.
+	The surface area is 1844640.
+
+271  ----------  TETRAHEDRON
+	The tetrahedron with the side 132.
+	The density is 7455983820.000000.
+	The surface area is 30179.253271.
+
+272  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 923 y: 311 z: 673.
+	The density is 13751793340.000000.
+	The surface area is 1722318.
+
+273  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 892 y: 846 z: 408.
+	The density is 5769949850.000000.
+	The surface area is 4527792.
+
+274  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 644 y: 635 z: 520.
+	The density is 14024929720.000000.
+	The surface area is 2453640.
+
+275  ----------  TETRAHEDRON
+	The tetrahedron with the side 966.
+	The density is 7377036620.000000.
+	The surface area is 1616273.603388.
+
+276  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 709 y: 96 z: 535.
+	The density is 17380762170.000000.
+	The surface area is 408384.
+
+277  ----------  SPHERE
+	The sphere with the radius is 613.
+	The density is 3868398510.000000.
+	The surface area is 4722051.536992.
+
+278  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 902 y: 186 z: 438.
+	The density is 18334882630.000000.
+	The surface area is 1006632.
+
+279  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 80 y: 523 z: 468.
+	The density is 9160188590.000000.
+	The surface area is 251040.
+
+280  ----------  SPHERE
+	The sphere with the radius is 80.
+	The density is 18663558560.000000.
+	The surface area is 80424.755200.
+
+281  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 928 y: 233 z: 851.
+	The density is 6725639700.000000.
+	The surface area is 1297344.
+
+282  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 330 y: 387 z: 437.
+	The density is 20831495170.000000.
+	The surface area is 766260.
+
+283  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 147 y: 16 z: 673.
+	The density is 19281893000.000000.
+	The surface area is 14112.
+
+284  ----------  SPHERE
+	The sphere with the radius is 287.
+	The density is 4721314890.000000.
+	The surface area is 1035079.165792.
+
+285  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 907 y: 832 z: 836.
+	The density is 1581361040.000000.
+	The surface area is 4527744.
+
+286  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 915 y: 362 z: 813.
+	The density is 17942925380.000000.
+	The surface area is 1987380.
+
+287  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 892 y: 78 z: 368.
+	The density is 1531628440.000000.
+	The surface area is 417456.
+
+288  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 220 y: 822 z: 780.
+	The density is 19989943140.000000.
+	The surface area is 1085040.
+
+289  ----------  SPHERE
+	The sphere with the radius is 218.
+	The density is 4118269690.000000.
+	The surface area is 597204.072832.
+
+290  ----------  SPHERE
+	The sphere with the radius is 83.
+	The density is 1925326210.000000.
+	The surface area is 86569.709152.
+
+291  ----------  SPHERE
+	The sphere with the radius is 270.
+	The density is 10926372890.000000.
+	The surface area is 916088.227200.
+
+292  ----------  TETRAHEDRON
+	The tetrahedron with the side 198.
+	The density is 6167346730.000000.
+	The surface area is 67903.319860.
+
+293  ----------  SPHERE
+	The sphere with the radius is 748.
+	The density is 16077745480.000000.
+	The surface area is 7030933.161472.
+
+294  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 375 y: 165 z: 133.
+	The density is 7527043130.000000.
+	The surface area is 371250.
+
+295  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 293 y: 518 z: 675.
+	The density is 20566651550.000000.
+	The surface area is 910644.
+
+296  ----------  TETRAHEDRON
+	The tetrahedron with the side 704.
+	The density is 21389829330.000000.
+	The surface area is 858432.093044.
+
+297  ----------  TETRAHEDRON
+	The tetrahedron with the side 203.
+	The density is 2132131710.000000.
+	The surface area is 71376.081729.
+
+298  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 139 y: 772 z: 153.
+	The density is 6250401400.000000.
+	The surface area is 643848.
+
+299  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 173 y: 210 z: 270.
+	The density is 14991503230.000000.
+	The surface area is 217980.
+
+300  ----------  SPHERE
+	The sphere with the radius is 683.
+	The density is 13726683640.000000.
+	The surface area is 5862072.441952.
+
+301  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 214 y: 339 z: 248.
+	The density is 14510426590.000000.
+	The surface area is 435276.
+
+302  ----------  SPHERE
+	The sphere with the radius is 872.
+	The density is 17794512380.000000.
+	The surface area is 9555265.165312.
+
+303  ----------  SPHERE
+	The sphere with the radius is 390.
+	The density is 9721253830.000000.
+	The surface area is 1911344.572800.
+
+304  ----------  SPHERE
+	The sphere with the radius is 166.
+	The density is 9905263430.000000.
+	The surface area is 346278.836608.
+
+305  ----------  TETRAHEDRON
+	The tetrahedron with the side 763.
+	The density is 8303659810.000000.
+	The surface area is 1008346.286592.
+
+306  ----------  SPHERE
+	The sphere with the radius is 288.
+	The density is 4030680110.000000.
+	The surface area is 1042304.827392.
+
+307  ----------  TETRAHEDRON
+	The tetrahedron with the side 441.
+	The density is 19700901920.000000.
+	The surface area is 336850.973107.
+
+308  ----------  SPHERE
+	The sphere with the radius is 332.
+	The density is 13217568680.000000.
+	The surface area is 1385115.346432.
+
+309  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 249 y: 407 z: 619.
+	The density is 10776831740.000000.
+	The surface area is 608058.
+
+310  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 551 y: 155 z: 527.
+	The density is 14896923770.000000.
+	The surface area is 512430.
+
+311  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 400 y: 342 z: 544.
+	The density is 15547250620.000000.
+	The surface area is 820800.
+
+312  ----------  SPHERE
+	The sphere with the radius is 406.
+	The density is 7172934180.000000.
+	The surface area is 2071389.835648.
+
+313  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 303 y: 874 z: 217.
+	The density is 5229717260.000000.
+	The surface area is 1588932.
+
+314  ----------  TETRAHEDRON
+	The tetrahedron with the side 350.
+	The density is 8273859480.000000.
+	The surface area is 212176.223927.
+
+315  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 141 y: 707 z: 653.
+	The density is 282640290.000000.
+	The surface area is 598122.
+
+316  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 620 y: 829 z: 981.
+	The density is 5304064240.000000.
+	The surface area is 3083880.
+
+317  ----------  SPHERE
+	The sphere with the radius is 251.
+	The density is 5055930100.000000.
+	The surface area is 791693.750368.
+
+318  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 617 y: 371 z: 36.
+	The density is 10240275830.000000.
+	The surface area is 1373442.
+
+319  ----------  TETRAHEDRON
+	The tetrahedron with the side 263.
+	The density is 13746009380.000000.
+	The surface area is 119804.222309.
+
+320  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 655 y: 330 z: 342.
+	The density is 5970104310.000000.
+	The surface area is 1296900.
+
+321  ----------  SPHERE
+	The sphere with the radius is 128.
+	The density is 18810496130.000000.
+	The surface area is 205887.373312.
+
+322  ----------  SPHERE
+	The sphere with the radius is 886.
+	The density is 14039382700.000000.
+	The surface area is 9864548.614528.
+
+323  ----------  SPHERE
+	The sphere with the radius is 312.
+	The density is 17152078290.000000.
+	The surface area is 1223260.526592.
+
+324  ----------  SPHERE
+	The sphere with the radius is 673.
+	The density is 6924587430.000000.
+	The surface area is 5691672.491872.
+
+325  ----------  TETRAHEDRON
+	The tetrahedron with the side 373.
+	The density is 18558430240.000000.
+	The surface area is 240978.496806.
+
+326  ----------  SPHERE
+	The sphere with the radius is 624.
+	The density is 2139523860.000000.
+	The surface area is 4893042.106368.
+
+327  ----------  SPHERE
+	The sphere with the radius is 959.
+	The density is 12379799690.000000.
+	The surface area is 11557049.888608.
+
+328  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 918 y: 192 z: 206.
+	The density is 11118000300.000000.
+	The surface area is 1057536.
+
+329  ----------  SPHERE
+	The sphere with the radius is 579.
+	The density is 15146200940.000000.
+	The surface area is 4212761.774688.
+
+330  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 108 y: 339 z: 418.
+	The density is 169223510.000000.
+	The surface area is 219672.
+
+331  ----------  TETRAHEDRON
+	The tetrahedron with the side 23.
+	The density is 2723120860.000000.
+	The surface area is 916.254877.
+
+332  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 334 y: 352 z: 40.
+	The density is 19875199150.000000.
+	The surface area is 705408.
+
+333  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 483 y: 99 z: 235.
+	The density is 678741330.000000.
+	The surface area is 286902.
+
+334  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 421 y: 224 z: 401.
+	The density is 14563396430.000000.
+	The surface area is 565824.
+
+335  ----------  SPHERE
+	The sphere with the radius is 38.
+	The density is 6571031240.000000.
+	The surface area is 18145.835392.
+
+336  ----------  SPHERE
+	The sphere with the radius is 782.
+	The density is 1935520630.000000.
+	The surface area is 7684635.624832.
+
+337  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 575 y: 129 z: 215.
+	The density is 6929817120.000000.
+	The surface area is 445050.
+
+338  ----------  SPHERE
+	The sphere with the radius is 732.
+	The density is 8376267990.000000.
+	The surface area is 6733361.567232.
+
+339  ----------  TETRAHEDRON
+	The tetrahedron with the side 699.
+	The density is 11967743150.000000.
+	The surface area is 846281.756629.
+
+340  ----------  TETRAHEDRON
+	The tetrahedron with the side 770.
+	The density is 2452408530.000000.
+	The surface area is 1026932.923808.
+
+341  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 845 y: 968 z: 883.
+	The density is 6609164870.000000.
+	The surface area is 4907760.
+
+342  ----------  TETRAHEDRON
+	The tetrahedron with the side 324.
+	The density is 10283636100.000000.
+	The surface area is 181823.765575.
+
+343  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 443 y: 635 z: 831.
+	The density is 5736667040.000000.
+	The surface area is 1687830.
+
+344  ----------  TETRAHEDRON
+	The tetrahedron with the side 640.
+	The density is 10054188160.000000.
+	The surface area is 709448.010780.
+
+345  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 29 y: 276 z: 645.
+	The density is 7035715220.000000.
+	The surface area is 48024.
+
+346  ----------  SPHERE
+	The sphere with the radius is 909.
+	The density is 2171615280.000000.
+	The surface area is 10383351.117408.
+
+347  ----------  SPHERE
+	The sphere with the radius is 915.
+	The density is 1773327000.000000.
+	The surface area is 10520877.448800.
+
+348  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 256 y: 880 z: 143.
+	The density is 21250237870.000000.
+	The surface area is 1351680.
+
+349  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 111 y: 204 z: 523.
+	The density is 17196503530.000000.
+	The surface area is 135864.
+
+350  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 461 y: 777 z: 689.
+	The density is 6710685060.000000.
+	The surface area is 2149182.
+
+351  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 888 y: 337 z: 967.
+	The density is 15691159210.000000.
+	The surface area is 1795536.
+
+352  ----------  SPHERE
+	The sphere with the radius is 714.
+	The density is 3121863540.000000.
+	The surface area is 6406284.140928.
+
+353  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 675 y: 490 z: 408.
+	The density is 7308329330.000000.
+	The surface area is 1984500.
+
+354  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 42 y: 915 z: 357.
+	The density is 2634190170.000000.
+	The surface area is 230580.
+
+355  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 499 y: 618 z: 240.
+	The density is 2282170690.000000.
+	The surface area is 1850292.
+
+356  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 482 y: 441 z: 786.
+	The density is 10471962950.000000.
+	The surface area is 1275372.
+
+357  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 195 y: 38 z: 545.
+	The density is 15380266520.000000.
+	The surface area is 44460.
+
+358  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 512 y: 109 z: 946.
+	The density is 11987201720.000000.
+	The surface area is 334848.
+
+359  ----------  TETRAHEDRON
+	The tetrahedron with the side 163.
+	The density is 137988780.000000.
+	The surface area is 46018.857906.
+
+360  ----------  SPHERE
+	The sphere with the radius is 570.
+	The density is 998851960.000000.
+	The surface area is 4082812.963200.
+
+361  ----------  SPHERE
+	The sphere with the radius is 331.
+	The density is 3633042130.000000.
+	The surface area is 1376783.844448.
+
+362  ----------  SPHERE
+	The sphere with the radius is 627.
+	The density is 6042633700.000000.
+	The surface area is 4940203.685472.
+
+363  ----------  TETRAHEDRON
+	The tetrahedron with the side 963.
+	The density is 11554651150.000000.
+	The surface area is 1606250.225364.
+
+364  ----------  TETRAHEDRON
+	The tetrahedron with the side 504.
+	The density is 4429826390.000000.
+	The surface area is 439968.617935.
+
+365  ----------  SPHERE
+	The sphere with the radius is 9.
+	The density is 16426631980.000000.
+	The surface area is 1017.875808.
+
+366  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 921 y: 710 z: 988.
+	The density is 10332062020.000000.
+	The surface area is 3923460.
+
+367  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 219 y: 831 z: 468.
+	The density is 14855118040.000000.
+	The surface area is 1091934.
+
+368  ----------  TETRAHEDRON
+	The tetrahedron with the side 630.
+	The density is 11451512250.000000.
+	The surface area is 687450.965524.
+
+369  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 919 y: 644 z: 585.
+	The density is 12450364210.000000.
+	The surface area is 3551016.
+
+370  ----------  SPHERE
+	The sphere with the radius is 542.
+	The density is 13908657250.000000.
+	The surface area is 3691546.529152.
+
+371  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 280 y: 559 z: 87.
+	The density is 8320776450.000000.
+	The surface area is 939120.
+
+372  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 100 y: 569 z: 789.
+	The density is 17014758830.000000.
+	The surface area is 341400.
+
+373  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 711 y: 764 z: 719.
+	The density is 444702160.000000.
+	The surface area is 3259224.
+
+374  ----------  TETRAHEDRON
+	The tetrahedron with the side 656.
+	The density is 5474073300.000000.
+	The surface area is 745363.816326.
+
+375  ----------  TETRAHEDRON
+	The tetrahedron with the side 538.
+	The density is 13963420130.000000.
+	The surface area is 501331.713946.
+
+376  ----------  TETRAHEDRON
+	The tetrahedron with the side 758.
+	The density is 1920488600.000000.
+	The surface area is 995174.040200.
+
+377  ----------  SPHERE
+	The sphere with the radius is 402.
+	The density is 10691178320.000000.
+	The surface area is 2030775.334272.
+
+378  ----------  TETRAHEDRON
+	The tetrahedron with the side 104.
+	The density is 20252519900.000000.
+	The surface area is 18733.861535.
+
+379  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 659 y: 54 z: 424.
+	The density is 16089592950.000000.
+	The surface area is 213516.
+
+380  ----------  SPHERE
+	The sphere with the radius is 205.
+	The density is 13641805700.000000.
+	The surface area is 528101.615200.
+
+381  ----------  SPHERE
+	The sphere with the radius is 993.
+	The density is 3754445840.000000.
+	The surface area is 12391054.600032.
+
+382  ----------  SPHERE
+	The sphere with the radius is 423.
+	The density is 4199148000.000000.
+	The surface area is 2248487.659872.
+
+383  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 575 y: 666 z: 229.
+	The density is 3097664960.000000.
+	The surface area is 2297700.
+
+384  ----------  SPHERE
+	The sphere with the radius is 486.
+	The density is 9508813040.000000.
+	The surface area is 2968125.856128.
+
+385  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 244 y: 431 z: 978.
+	The density is 11429301640.000000.
+	The surface area is 630984.
+
+386  ----------  SPHERE
+	The sphere with the radius is 248.
+	The density is 6894425300.000000.
+	The surface area is 772881.897472.
+
+387  ----------  TETRAHEDRON
+	The tetrahedron with the side 831.
+	The density is 13169531650.000000.
+	The surface area is 1196086.737726.
+
+388  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 973 y: 589 z: 45.
+	The density is 10175656250.000000.
+	The surface area is 3438582.
+
+389  ----------  TETRAHEDRON
+	The tetrahedron with the side 449.
+	The density is 995684840.000000.
+	The surface area is 349183.174857.
+
+390  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 584 y: 32 z: 150.
+	The density is 448049190.000000.
+	The surface area is 112128.
+
+391  ----------  SPHERE
+	The sphere with the radius is 534.
+	The density is 12958154940.000000.
+	The surface area is 3583375.233408.
+
+392  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 671 y: 309 z: 667.
+	The density is 4648375810.000000.
+	The surface area is 1244034.
+
+393  ----------  SPHERE
+	The sphere with the radius is 98.
+	The density is 1025246430.000000.
+	The surface area is 120687.398272.
+
+394  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 479 y: 573 z: 101.
+	The density is 10312073940.000000.
+	The surface area is 1646802.
+
+395  ----------  SPHERE
+	The sphere with the radius is 944.
+	The density is 1109930180.000000.
+	The surface area is 11198342.914048.
+
+396  ----------  SPHERE
+	The sphere with the radius is 252.
+	The density is 12427540980.000000.
+	The surface area is 798014.633472.
+
+397  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 404 y: 338 z: 601.
+	The density is 15089765050.000000.
+	The surface area is 819312.
+
+398  ----------  TETRAHEDRON
+	The tetrahedron with the side 352.
+	The density is 2199944250.000000.
+	The surface area is 214608.023261.
+
+399  ----------  TETRAHEDRON
+	The tetrahedron with the side 958.
+	The density is 15593828530.000000.
+	The surface area is 1589613.877358.
+
+400  ----------  SPHERE
+	The sphere with the radius is 842.
+	The density is 4544167480.000000.
+	The surface area is 8909102.522752.
+
+401  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 228 y: 592 z: 199.
+	The density is 5708405160.000000.
+	The surface area is 809856.
+
+402  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 832 y: 523 z: 489.
+	The density is 20332619000.000000.
+	The surface area is 2610816.
+
+403  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 612 y: 314 z: 2.
+	The density is 9591620350.000000.
+	The surface area is 1153008.
+
+404  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 609 y: 419 z: 688.
+	The density is 5995291540.000000.
+	The surface area is 1531026.
+
+405  ----------  SPHERE
+	The sphere with the radius is 579.
+	The density is 7776353250.000000.
+	The surface area is 4212761.774688.
+
+406  ----------  SPHERE
+	The sphere with the radius is 620.
+	The density is 10852067970.000000.
+	The surface area is 4830511.859200.
+
+407  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 194 y: 721 z: 328.
+	The density is 5411101150.000000.
+	The surface area is 839244.
+
+408  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 555 y: 468 z: 566.
+	The density is 20287208970.000000.
+	The surface area is 1558440.
+
+409  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 117 y: 560 z: 592.
+	The density is 16593733490.000000.
+	The surface area is 393120.
+
+410  ----------  TETRAHEDRON
+	The tetrahedron with the side 204.
+	The density is 13434579140.000000.
+	The surface area is 72081.026408.
+
+411  ----------  SPHERE
+	The sphere with the radius is 630.
+	The density is 6490227650.000000.
+	The surface area is 4987591.459200.
+
+412  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 49 y: 490 z: 992.
+	The density is 6827366260.000000.
+	The surface area is 144060.
+
+413  ----------  TETRAHEDRON
+	The tetrahedron with the side 297.
+	The density is 2347997520.000000.
+	The surface area is 152782.469685.
+
+414  ----------  TETRAHEDRON
+	The tetrahedron with the side 118.
+	The density is 13085815150.000000.
+	The surface area is 24117.075445.
+
+415  ----------  SPHERE
+	The sphere with the radius is 838.
+	The density is 12456444280.000000.
+	The surface area is 8824656.529792.
+
+416  ----------  SPHERE
+	The sphere with the radius is 207.
+	The density is 17508296130.000000.
+	The surface area is 538456.302432.
+
+417  ----------  TETRAHEDRON
+	The tetrahedron with the side 491.
+	The density is 13769410620.000000.
+	The surface area is 417564.540740.
+
+418  ----------  SPHERE
+	The sphere with the radius is 608.
+	The density is 8888307630.000000.
+	The surface area is 4645333.860352.
+
+419  ----------  TETRAHEDRON
+	The tetrahedron with the side 375.
+	The density is 9936833970.000000.
+	The surface area is 243569.644814.
+
+420  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 893 y: 434 z: 627.
+	The density is 18024919820.000000.
+	The surface area is 2325372.
+
+421  ----------  TETRAHEDRON
+	The tetrahedron with the side 395.
+	The density is 1735065180.000000.
+	The surface area is 270243.227251.
+
+422  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 900 y: 690 z: 206.
+	The density is 803294990.000000.
+	The surface area is 3726000.
+
+423  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 323 y: 297 z: 136.
+	The density is 20000330620.000000.
+	The surface area is 575586.
+
+424  ----------  SPHERE
+	The sphere with the radius is 50.
+	The density is 5745965340.000000.
+	The surface area is 31415.920000.
+
+425  ----------  SPHERE
+	The sphere with the radius is 431.
+	The density is 9346188340.000000.
+	The surface area is 2334341.086048.
+
+426  ----------  TETRAHEDRON
+	The tetrahedron with the side 633.
+	The density is 1960958150.000000.
+	The surface area is 694013.706034.
+
+427  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 709 y: 997 z: 383.
+	The density is 19893523240.000000.
+	The surface area is 4241238.
+
+428  ----------  SPHERE
+	The sphere with the radius is 535.
+	The density is 4218253610.000000.
+	The surface area is 3596808.680800.
+
+429  ----------  SPHERE
+	The sphere with the radius is 733.
+	The density is 14606541870.000000.
+	The surface area is 6751771.296352.
+
+430  ----------  TETRAHEDRON
+	The tetrahedron with the side 642.
+	The density is 19173059810.000000.
+	The surface area is 713888.989051.
+
+431  ----------  TETRAHEDRON
+	The tetrahedron with the side 566.
+	The density is 4612738790.000000.
+	The surface area is 554872.868510.
+
+432  ----------  SPHERE
+	The sphere with the radius is 889.
+	The density is 3138232930.000000.
+	The surface area is 9931464.524128.
+
+433  ----------  SPHERE
+	The sphere with the radius is 488.
+	The density is 14120171350.000000.
+	The surface area is 2992605.140992.
+
+434  ----------  SPHERE
+	The sphere with the radius is 12.
+	The density is 21135569420.000000.
+	The surface area is 1809.556992.
+
+435  ----------  TETRAHEDRON
+	The tetrahedron with the side 307.
+	The density is 20445541630.000000.
+	The surface area is 163244.056563.
+
+436  ----------  SPHERE
+	The sphere with the radius is 929.
+	The density is 7168985000.000000.
+	The surface area is 10845290.805088.
+
+437  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 645 y: 548 z: 250.
+	The density is 3829262340.000000.
+	The surface area is 2120760.
+
+438  ----------  TETRAHEDRON
+	The tetrahedron with the side 302.
+	The density is 8965516330.000000.
+	The surface area is 157969.961854.
+
+439  ----------  TETRAHEDRON
+	The tetrahedron with the side 748.
+	The density is 13919274940.000000.
+	The surface area is 969089.355038.
+
+440  ----------  TETRAHEDRON
+	The tetrahedron with the side 96.
+	The density is 19676328540.000000.
+	The surface area is 15962.580243.
+
+441  ----------  TETRAHEDRON
+	The tetrahedron with the side 657.
+	The density is 19745714750.000000.
+	The surface area is 747637.999036.
+
+442  ----------  SPHERE
+	The sphere with the radius is 516.
+	The density is 17671107510.000000.
+	The surface area is 3345870.878208.
+
+443  ----------  TETRAHEDRON
+	The tetrahedron with the side 799.
+	The density is 10100148110.000000.
+	The surface area is 1105742.967603.
+
+444  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 471 y: 629 z: 873.
+	The density is 13967686810.000000.
+	The surface area is 1777554.
+
+445  ----------  TETRAHEDRON
+	The tetrahedron with the side 802.
+	The density is 2536745350.000000.
+	The surface area is 1114062.007632.
+
+446  ----------  SPHERE
+	The sphere with the radius is 447.
+	The density is 6366007690.000000.
+	The surface area is 2510873.423712.
+
+447  ----------  SPHERE
+	The sphere with the radius is 419.
+	The density is 3405630720.000000.
+	The surface area is 2206164.132448.
+
+448  ----------  TETRAHEDRON
+	The tetrahedron with the side 694.
+	The density is 17760884110.000000.
+	The surface area is 834218.022754.
+
+449  ----------  TETRAHEDRON
+	The tetrahedron with the side 176.
+	The density is 6800070570.000000.
+	The surface area is 53652.005815.
+
+450  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 991 y: 498 z: 216.
+	The density is 19254734390.000000.
+	The surface area is 2961108.
+
+451  ----------  TETRAHEDRON
+	The tetrahedron with the side 451.
+	The density is 20976573710.000000.
+	The surface area is 352300.866310.
+
+452  ----------  SPHERE
+	The sphere with the radius is 250.
+	The density is 9601885340.000000.
+	The surface area is 785398.000000.
+
+453  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 721 y: 981 z: 125.
+	The density is 2094735670.000000.
+	The surface area is 4243806.
+
+454  ----------  TETRAHEDRON
+	The tetrahedron with the side 645.
+	The density is 16075003350.000000.
+	The surface area is 720576.437219.
+
+455  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 811 y: 70 z: 148.
+	The density is 966174570.000000.
+	The surface area is 340620.
+
+456  ----------  TETRAHEDRON
+	The tetrahedron with the side 144.
+	The density is 19424816900.000000.
+	The surface area is 35915.805546.
+
+457  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 888 y: 818 z: 172.
+	The density is 4783076290.000000.
+	The surface area is 4358304.
+
+458  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 670 y: 663 z: 484.
+	The density is 9366219680.000000.
+	The surface area is 2665260.
+
+459  ----------  SPHERE
+	The sphere with the radius is 971.
+	The density is 6341720250.000000.
+	The surface area is 11848086.971488.
+
+460  ----------  TETRAHEDRON
+	The tetrahedron with the side 323.
+	The density is 814582600.000000.
+	The surface area is 180703.128703.
+
+461  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 23 y: 295 z: 211.
+	The density is 19985629570.000000.
+	The surface area is 40710.
+
+462  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 317 y: 639 z: 470.
+	The density is 21380787210.000000.
+	The surface area is 1215378.
+
+463  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 699 y: 939 z: 648.
+	The density is 1924338780.000000.
+	The surface area is 3938166.
+
+464  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 537 y: 161 z: 527.
+	The density is 5829727980.000000.
+	The surface area is 518742.
+
+465  ----------  TETRAHEDRON
+	The tetrahedron with the side 915.
+	The density is 2452778830.000000.
+	The surface area is 1450116.237367.
+
+466  ----------  TETRAHEDRON
+	The tetrahedron with the side 432.
+	The density is 15381282230.000000.
+	The surface area is 323242.249912.
+
+467  ----------  TETRAHEDRON
+	The tetrahedron with the side 352.
+	The density is 7133555110.000000.
+	The surface area is 214608.023261.
+
+468  ----------  SPHERE
+	The sphere with the radius is 242.
+	The density is 17056325630.000000.
+	The surface area is 735936.775552.
+
+469  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 536 y: 167 z: 113.
+	The density is 19042517680.000000.
+	The surface area is 537072.
+
+470  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 470 y: 664 z: 306.
+	The density is 14014223760.000000.
+	The surface area is 1872480.
+
+471  ----------  TETRAHEDRON
+	The tetrahedron with the side 246.
+	The density is 14553712540.000000.
+	The surface area is 104816.786671.
+
+472  ----------  SPHERE
+	The sphere with the radius is 319.
+	The density is 19220184810.000000.
+	The surface area is 1278766.174048.
+
+473  ----------  SPHERE
+	The sphere with the radius is 845.
+	The density is 12306743960.000000.
+	The surface area is 8972700.911200.
+
+474  ----------  SPHERE
+	The sphere with the radius is 479.
+	The density is 14759522800.000000.
+	The surface area is 2883240.040288.
+
+475  ----------  TETRAHEDRON
+	The tetrahedron with the side 630.
+	The density is 8665968550.000000.
+	The surface area is 687450.965524.
+
+476  ----------  TETRAHEDRON
+	The tetrahedron with the side 700.
+	The density is 15799523660.000000.
+	The surface area is 848704.895709.
+
+477  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 941 y: 531 z: 167.
+	The density is 11381012810.000000.
+	The surface area is 2998026.
+
+478  ----------  SPHERE
+	The sphere with the radius is 997.
+	The density is 18107131710.000000.
+	The surface area is 12491082.889312.
+
+479  ----------  SPHERE
+	The sphere with the radius is 467.
+	The density is 10646518990.000000.
+	The surface area is 2740586.630752.
+
+480  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 160 y: 575 z: 606.
+	The density is 6282577550.000000.
+	The surface area is 552000.
+
+481  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 924 y: 378 z: 21.
+	The density is 4293639230.000000.
+	The surface area is 2095632.
+
+482  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 449 y: 967 z: 621.
+	The density is 12437699420.000000.
+	The surface area is 2605098.
+
+483  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 481 y: 387 z: 298.
+	The density is 8569797590.000000.
+	The surface area is 1116882.
+
+484  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 239 y: 587 z: 794.
+	The density is 2781901580.000000.
+	The surface area is 841758.
+
+485  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 791 y: 545 z: 339.
+	The density is 16367506140.000000.
+	The surface area is 2586570.
+
+486  ----------  TETRAHEDRON
+	The tetrahedron with the side 980.
+	The density is 17521434210.000000.
+	The surface area is 1663461.595589.
+
+487  ----------  TETRAHEDRON
+	The tetrahedron with the side 586.
+	The density is 2594888630.000000.
+	The surface area is 594779.319116.
+
+488  ----------  TETRAHEDRON
+	The tetrahedron with the side 511.
+	The density is 6888527860.000000.
+	The surface area is 452274.838923.
+
+489  ----------  TETRAHEDRON
+	The tetrahedron with the side 718.
+	The density is 2014074580.000000.
+	The surface area is 892913.760521.
+
+490  ----------  TETRAHEDRON
+	The tetrahedron with the side 685.
+	The density is 11899144100.000000.
+	The surface area is 812721.540182.
+
+491  ----------  SPHERE
+	The sphere with the radius is 283.
+	The density is 8975345690.000000.
+	The surface area is 1006427.846752.
+
+492  ----------  TETRAHEDRON
+	The tetrahedron with the side 299.
+	The density is 376234460.000000.
+	The surface area is 154847.074247.
+
+493  ----------  SPHERE
+	The sphere with the radius is 537.
+	The density is 3158136050.000000.
+	The surface area is 3623750.973792.
+
+494  ----------  SPHERE
+	The sphere with the radius is 691.
+	The density is 14888731650.000000.
+	The surface area is 6000201.959008.
+
+495  ----------  TETRAHEDRON
+	The tetrahedron with the side 236.
+	The density is 8247224900.000000.
+	The surface area is 96468.301778.
+
+496  ----------  SPHERE
+	The sphere with the radius is 273.
+	The density is 17889862380.000000.
+	The surface area is 936558.840672.
+
+497  ----------  SPHERE
+	The sphere with the radius is 884.
+	The density is 15972720000.000000.
+	The surface area is 9820063.671808.
+
+498  ----------  TETRAHEDRON
+	The tetrahedron with the side 213.
+	The density is 20183738320.000000.
+	The surface area is 78581.413089.
+
+499  ----------  TETRAHEDRON
+	The tetrahedron with the side 281.
+	The density is 15301300170.000000.
+	The surface area is 136764.463816.
+
+500  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 515 y: 289 z: 838.
+	The density is 1381724970.000000.
+	The surface area is 893010.
+
+501  ----------  TETRAHEDRON
+	The tetrahedron with the side 69.
+	The density is 1361350180.000000.
+	The surface area is 8246.293895.
+
+502  ----------  SPHERE
+	The sphere with the radius is 73.
+	The density is 5746203920.000000.
+	The surface area is 66966.175072.
+
+503  ----------  SPHERE
+	The sphere with the radius is 383.
+	The density is 2518367540.000000.
+	The surface area is 1843347.955552.
+
+504  ----------  SPHERE
+	The sphere with the radius is 696.
+	The density is 11136757430.000000.
+	The surface area is 6087349.721088.
+
+505  ----------  TETRAHEDRON
+	The tetrahedron with the side 68.
+	The density is 2332330210.000000.
+	The surface area is 8009.002934.
+
+506  ----------  TETRAHEDRON
+	The tetrahedron with the side 419.
+	The density is 11049337200.000000.
+	The surface area is 304080.571828.
+
+507  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 75 y: 915 z: 576.
+	The density is 886396340.000000.
+	The surface area is 411750.
+
+508  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 575 y: 563 z: 121.
+	The density is 8257916940.000000.
+	The surface area is 1942350.
+
+509  ----------  SPHERE
+	The sphere with the radius is 959.
+	The density is 2038455200.000000.
+	The surface area is 11557049.888608.
+
+510  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 746 y: 389 z: 447.
+	The density is 3399805380.000000.
+	The surface area is 1741164.
+
+511  ----------  TETRAHEDRON
+	The tetrahedron with the side 291.
+	The density is 5319000340.000000.
+	The surface area is 146671.794436.
+
+512  ----------  TETRAHEDRON
+	The tetrahedron with the side 543.
+	The density is 406580940.000000.
+	The surface area is 510693.448561.
+
+513  ----------  SPHERE
+	The sphere with the radius is 32.
+	The density is 3741386440.000000.
+	The surface area is 12867.960832.
+
+514  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 791 y: 539 z: 226.
+	The density is 3491217840.000000.
+	The surface area is 2558094.
+
+515  ----------  TETRAHEDRON
+	The tetrahedron with the side 859.
+	The density is 18250517350.000000.
+	The surface area is 1278047.381940.
+
+516  ----------  TETRAHEDRON
+	The tetrahedron with the side 172.
+	The density is 13044385480.000000.
+	The surface area is 51240.991091.
+
+517  ----------  SPHERE
+	The sphere with the radius is 12.
+	The density is 7912515300.000000.
+	The surface area is 1809.556992.
+
+518  ----------  SPHERE
+	The sphere with the radius is 689.
+	The density is 9950970510.000000.
+	The surface area is 5965518.783328.
+
+519  ----------  TETRAHEDRON
+	The tetrahedron with the side 435.
+	The density is 13350775890.000000.
+	The surface area is 327747.314062.
+
+520  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 971 y: 169 z: 460.
+	The density is 1021948720.000000.
+	The surface area is 984594.
+
+521  ----------  SPHERE
+	The sphere with the radius is 3.
+	The density is 9574265760.000000.
+	The surface area is 113.097312.
+
+522  ----------  TETRAHEDRON
+	The tetrahedron with the side 34.
+	The density is 13315652200.000000.
+	The surface area is 2002.250734.
+
+523  ----------  TETRAHEDRON
+	The tetrahedron with the side 544.
+	The density is 16806870050.000000.
+	The surface area is 512576.187789.
+
+524  ----------  SPHERE
+	The sphere with the radius is 417.
+	The density is 14545802820.000000.
+	The surface area is 2185153.165152.
+
+525  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 865 y: 511 z: 786.
+	The density is 5241352360.000000.
+	The surface area is 2652090.
+
+526  ----------  TETRAHEDRON
+	The tetrahedron with the side 797.
+	The density is 544492990.000000.
+	The surface area is 1100214.261425.
+
+527  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 486 y: 907 z: 670.
+	The density is 10495463500.000000.
+	The surface area is 2644812.
+
+528  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 839 y: 330 z: 778.
+	The density is 5439061580.000000.
+	The surface area is 1661220.
+
+529  ----------  TETRAHEDRON
+	The tetrahedron with the side 458.
+	The density is 20637621110.000000.
+	The surface area is 363321.905599.
+
+530  ----------  TETRAHEDRON
+	The tetrahedron with the side 577.
+	The density is 18058162600.000000.
+	The surface area is 576649.943313.
+
+531  ----------  SPHERE
+	The sphere with the radius is 670.
+	The density is 21241499550.000000.
+	The surface area is 5641042.595200.
+
+532  ----------  SPHERE
+	The sphere with the radius is 707.
+	The density is 4053410890.000000.
+	The surface area is 6281286.478432.
+
+533  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 603 y: 316 z: 565.
+	The density is 5115839580.000000.
+	The surface area is 1143288.
+
+534  ----------  TETRAHEDRON
+	The tetrahedron with the side 368.
+	The density is 2336145110.000000.
+	The surface area is 234561.248564.
+
+535  ----------  TETRAHEDRON
+	The tetrahedron with the side 35.
+	The density is 3723152650.000000.
+	The surface area is 2121.762239.
+
+536  ----------  TETRAHEDRON
+	The tetrahedron with the side 704.
+	The density is 5313529760.000000.
+	The surface area is 858432.093044.
+
+537  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 543 y: 516 z: 966.
+	The density is 10752591340.000000.
+	The surface area is 1681128.
+
+538  ----------  TETRAHEDRON
+	The tetrahedron with the side 425.
+	The density is 1010729990.000000.
+	The surface area is 312851.677117.
+
+539  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 720 y: 70 z: 9.
+	The density is 19068892600.000000.
+	The surface area is 302400.
+
+540  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 563 y: 97 z: 835.
+	The density is 16832134860.000000.
+	The surface area is 327666.
+
+541  ----------  TETRAHEDRON
+	The tetrahedron with the side 869.
+	The density is 5107701360.000000.
+	The surface area is 1307977.219895.
+
+542  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 229 y: 986 z: 430.
+	The density is 18968700370.000000.
+	The surface area is 1354764.
+
+543  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 540 y: 762 z: 443.
+	The density is 11357870960.000000.
+	The surface area is 2468880.
+
+544  ----------  TETRAHEDRON
+	The tetrahedron with the side 985.
+	The density is 12772786740.000000.
+	The surface area is 1680478.994774.
+
+545  ----------  SPHERE
+	The sphere with the radius is 264.
+	The density is 16657288020.000000.
+	The surface area is 875825.584128.
+
+546  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 843 y: 473 z: 62.
+	The density is 1773128510.000000.
+	The surface area is 2392434.
+
+547  ----------  SPHERE
+	The sphere with the radius is 451.
+	The density is 9660711610.000000.
+	The surface area is 2556011.817568.
+
+548  ----------  TETRAHEDRON
+	The tetrahedron with the side 266.
+	The density is 11074841690.000000.
+	The surface area is 122552.986940.
+
+549  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 683 y: 159 z: 997.
+	The density is 17604811350.000000.
+	The surface area is 651582.
+
+550  ----------  SPHERE
+	The sphere with the radius is 984.
+	The density is 17253622970.000000.
+	The surface area is 12167461.214208.
+
+551  ----------  TETRAHEDRON
+	The tetrahedron with the side 5.
+	The density is 13960288610.000000.
+	The surface area is 43.301270.
+
+552  ----------  TETRAHEDRON
+	The tetrahedron with the side 448.
+	The density is 15980484010.000000.
+	The surface area is 347629.525282.
+
+553  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 152 y: 145 z: 917.
+	The density is 7278434280.000000.
+	The surface area is 132240.
+
+554  ----------  TETRAHEDRON
+	The tetrahedron with the side 259.
+	The density is 21120436820.000000.
+	The surface area is 116187.700223.
+
+555  ----------  TETRAHEDRON
+	The tetrahedron with the side 320.
+	The density is 11945592770.000000.
+	The surface area is 177362.002695.
+
+556  ----------  TETRAHEDRON
+	The tetrahedron with the side 489.
+	The density is 131467900.000000.
+	The surface area is 414169.721157.
+
+557  ----------  SPHERE
+	The sphere with the radius is 754.
+	The density is 11206309600.000000.
+	The surface area is 7144181.269888.
+
+558  ----------  SPHERE
+	The sphere with the radius is 156.
+	The density is 7336284470.000000.
+	The surface area is 305815.131648.
+
+559  ----------  SPHERE
+	The sphere with the radius is 363.
+	The density is 7744046280.000000.
+	The surface area is 1655857.744992.
+
+560  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 719 y: 184 z: 515.
+	The density is 10721905280.000000.
+	The surface area is 793776.
+
+561  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 962 y: 237 z: 951.
+	The density is 6805037660.000000.
+	The surface area is 1367964.
+
+562  ----------  TETRAHEDRON
+	The tetrahedron with the side 868.
+	The density is 15957470360.000000.
+	The surface area is 1304968.647642.
+
+563  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 127 y: 944 z: 691.
+	The density is 15603070710.000000.
+	The surface area is 719328.
+
+564  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 641 y: 653 z: 614.
+	The density is 2205105390.000000.
+	The surface area is 2511438.
+
+565  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 246 y: 883 z: 281.
+	The density is 19436797810.000000.
+	The surface area is 1303308.
+
+566  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 363 y: 930 z: 202.
+	The density is 11017098780.000000.
+	The surface area is 2025540.
+
+567  ----------  SPHERE
+	The sphere with the radius is 716.
+	The density is 2786089440.000000.
+	The surface area is 6442223.953408.
+
+568  ----------  TETRAHEDRON
+	The tetrahedron with the side 398.
+	The density is 9591127110.000000.
+	The surface area is 274363.776122.
+
+569  ----------  TETRAHEDRON
+	The tetrahedron with the side 231.
+	The density is 2199762570.000000.
+	The surface area is 92423.963143.
+
+570  ----------  TETRAHEDRON
+	The tetrahedron with the side 198.
+	The density is 18744120340.000000.
+	The surface area is 67903.319860.
+
+571  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 142 y: 102 z: 52.
+	The density is 18047655950.000000.
+	The surface area is 86904.
+
+572  ----------  SPHERE
+	The sphere with the radius is 704.
+	The density is 1502031070.000000.
+	The surface area is 6228093.042688.
+
+573  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 830 y: 989 z: 417.
+	The density is 18913635580.000000.
+	The surface area is 4925220.
+
+574  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 108 y: 473 z: 393.
+	The density is 12474120820.000000.
+	The surface area is 306504.
+
+575  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 225 y: 25 z: 408.
+	The density is 11297094330.000000.
+	The surface area is 33750.
+
+576  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 778 y: 463 z: 371.
+	The density is 17172954070.000000.
+	The surface area is 2161284.
+
+577  ----------  TETRAHEDRON
+	The tetrahedron with the side 568.
+	The density is 14807083130.000000.
+	The surface area is 558801.159741.
+
+578  ----------  TETRAHEDRON
+	The tetrahedron with the side 428.
+	The density is 11379902600.000000.
+	The surface area is 317283.995134.
+
+579  ----------  TETRAHEDRON
+	The tetrahedron with the side 559.
+	The density is 14401068920.000000.
+	The surface area is 541232.968400.
+
+580  ----------  SPHERE
+	The sphere with the radius is 303.
+	The density is 3468047120.000000.
+	The surface area is 1153705.679712.
+
+581  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 12 y: 890 z: 523.
+	The density is 11971823130.000000.
+	The surface area is 64080.
+
+582  ----------  TETRAHEDRON
+	The tetrahedron with the side 996.
+	The density is 15448995510.000000.
+	The surface area is 1718222.113921.
+
+583  ----------  SPHERE
+	The sphere with the radius is 988.
+	The density is 5967276990.000000.
+	The surface area is 12266584.724992.
+
+584  ----------  SPHERE
+	The sphere with the radius is 396.
+	The density is 332524810.000000.
+	The surface area is 1970607.564288.
+
+585  ----------  SPHERE
+	The sphere with the radius is 174.
+	The density is 17505478890.000000.
+	The surface area is 380459.357568.
+
+586  ----------  TETRAHEDRON
+	The tetrahedron with the side 423.
+	The density is 45377360.000000.
+	The surface area is 309914.118947.
+
+587  ----------  SPHERE
+	The sphere with the radius is 82.
+	The density is 10660757040.000000.
+	The surface area is 84496.258432.
+
+588  ----------  TETRAHEDRON
+	The tetrahedron with the side 280.
+	The density is 17038357330.000000.
+	The surface area is 135792.783313.
+
+589  ----------  SPHERE
+	The sphere with the radius is 220.
+	The density is 21383283640.000000.
+	The surface area is 608212.211200.
+
+590  ----------  SPHERE
+	The sphere with the radius is 693.
+	The density is 13517777240.000000.
+	The surface area is 6034985.665632.
+
+591  ----------  SPHERE
+	The sphere with the radius is 583.
+	The density is 4503957380.000000.
+	The surface area is 4271170.253152.
+
+592  ----------  TETRAHEDRON
+	The tetrahedron with the side 299.
+	The density is 7964258340.000000.
+	The surface area is 154847.074247.
+
+593  ----------  TETRAHEDRON
+	The tetrahedron with the side 323.
+	The density is 14385379450.000000.
+	The surface area is 180703.128703.
+
+594  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 90 y: 668 z: 549.
+	The density is 5078573660.000000.
+	The surface area is 360720.
+
+595  ----------  SPHERE
+	The sphere with the radius is 548.
+	The density is 7010627950.000000.
+	The surface area is 3773730.575872.
+
+596  ----------  SPHERE
+	The sphere with the radius is 768.
+	The density is 19182588030.000000.
+	The surface area is 7411945.439232.
+
+597  ----------  TETRAHEDRON
+	The tetrahedron with the side 379.
+	The density is 18650338820.000000.
+	The surface area is 248793.510050.
+
+598  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 150 y: 669 z: 1.
+	The density is 710616480.000000.
+	The surface area is 602100.
+
+599  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 412 y: 830 z: 827.
+	The density is 10358393660.000000.
+	The surface area is 2051760.
+
+600  ----------  SPHERE
+	The sphere with the radius is 603.
+	The density is 9120784080.000000.
+	The surface area is 4569244.502112.
+
+601  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 526 y: 334 z: 956.
+	The density is 3631591610.000000.
+	The surface area is 1054104.
+
+602  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 624 y: 526 z: 858.
+	The density is 15023862510.000000.
+	The surface area is 1969344.
+
+603  ----------  TETRAHEDRON
+	The tetrahedron with the side 135.
+	The density is 2179855880.000000.
+	The surface area is 31566.625968.
+
+604  ----------  SPHERE
+	The sphere with the radius is 976.
+	The density is 10810294480.000000.
+	The surface area is 11970420.563968.
+
+605  ----------  SPHERE
+	The sphere with the radius is 811.
+	The density is 4772239560.000000.
+	The surface area is 8265164.127328.
+
+606  ----------  SPHERE
+	The sphere with the radius is 199.
+	The density is 19941596510.000000.
+	The surface area is 497640.739168.
+
+607  ----------  SPHERE
+	The sphere with the radius is 160.
+	The density is 16836739490.000000.
+	The surface area is 321699.020800.
+
+608  ----------  SPHERE
+	The sphere with the radius is 986.
+	The density is 7429491640.000000.
+	The surface area is 12216972.704128.
+
+609  ----------  TETRAHEDRON
+	The tetrahedron with the side 590.
+	The density is 16550275720.000000.
+	The surface area is 602926.886115.
+
+610  ----------  SPHERE
+	The sphere with the radius is 834.
+	The density is 20181867330.000000.
+	The surface area is 8740612.660608.
+
+611  ----------  TETRAHEDRON
+	The tetrahedron with the side 811.
+	The density is 5604136400.000000.
+	The surface area is 1139206.189205.
+
+612  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 56 y: 791 z: 860.
+	The density is 5412791360.000000.
+	The surface area is 265776.
+
+613  ----------  SPHERE
+	The sphere with the radius is 464.
+	The density is 6656802970.000000.
+	The surface area is 2705488.764928.
+
+614  ----------  TETRAHEDRON
+	The tetrahedron with the side 569.
+	The density is 4419719240.000000.
+	The surface area is 560770.501509.
+
+615  ----------  TETRAHEDRON
+	The tetrahedron with the side 455.
+	The density is 20589641250.000000.
+	The surface area is 358577.818437.
+
+616  ----------  TETRAHEDRON
+	The tetrahedron with the side 60.
+	The density is 12125343190.000000.
+	The surface area is 6235.382907.
+
+617  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 76 y: 475 z: 932.
+	The density is 14019438800.000000.
+	The surface area is 216600.
+
+618  ----------  TETRAHEDRON
+	The tetrahedron with the side 241.
+	The density is 14783266440.000000.
+	The surface area is 100599.242954.
+
+619  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 76 y: 898 z: 725.
+	The density is 13490297290.000000.
+	The surface area is 409488.
+
+620  ----------  TETRAHEDRON
+	The tetrahedron with the side 401.
+	The density is 16565276450.000000.
+	The surface area is 278515.501908.
+
+621  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 261 y: 507 z: 985.
+	The density is 5352975080.000000.
+	The surface area is 793962.
+
+622  ----------  TETRAHEDRON
+	The tetrahedron with the side 325.
+	The density is 4298573440.000000.
+	The surface area is 182947.866549.
+
+623  ----------  SPHERE
+	The sphere with the radius is 194.
+	The density is 1273409470.000000.
+	The surface area is 472947.826048.
+
+624  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 979 y: 962 z: 342.
+	The density is 18189842000.000000.
+	The surface area is 5650788.
+
+625  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 536 y: 858 z: 841.
+	The density is 21398420530.000000.
+	The surface area is 2759328.
+
+626  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 666 y: 814 z: 892.
+	The density is 13974892100.000000.
+	The surface area is 3252744.
+
+627  ----------  SPHERE
+	The sphere with the radius is 497.
+	The density is 11644656260.000000.
+	The surface area is 3104005.993312.
+
+628  ----------  SPHERE
+	The sphere with the radius is 875.
+	The density is 14677044850.000000.
+	The surface area is 9621125.500000.
+
+629  ----------  SPHERE
+	The sphere with the radius is 382.
+	The density is 8466671230.000000.
+	The surface area is 1833734.684032.
+
+630  ----------  SPHERE
+	The sphere with the radius is 733.
+	The density is 19015406370.000000.
+	The surface area is 6751771.296352.
+
+631  ----------  TETRAHEDRON
+	The tetrahedron with the side 149.
+	The density is 5076114100.000000.
+	The surface area is 38453.259979.
+
+632  ----------  SPHERE
+	The sphere with the radius is 872.
+	The density is 12011620690.000000.
+	The surface area is 9555265.165312.
+
+633  ----------  TETRAHEDRON
+	The tetrahedron with the side 215.
+	The density is 9100531500.000000.
+	The surface area is 80064.048580.
+
+634  ----------  TETRAHEDRON
+	The tetrahedron with the side 750.
+	The density is 9024115560.000000.
+	The surface area is 974278.579257.
+
+635  ----------  SPHERE
+	The sphere with the radius is 455.
+	The density is 19274543280.000000.
+	The surface area is 2601552.335200.
+
+636  ----------  TETRAHEDRON
+	The tetrahedron with the side 987.
+	The density is 9012119830.000000.
+	The surface area is 1687310.203159.
+
+637  ----------  TETRAHEDRON
+	The tetrahedron with the side 246.
+	The density is 10738814230.000000.
+	The surface area is 104816.786671.
+
+638  ----------  TETRAHEDRON
+	The tetrahedron with the side 623.
+	The density is 7555948610.000000.
+	The surface area is 672259.147891.
+
+639  ----------  SPHERE
+	The sphere with the radius is 979.
+	The density is 9726058070.000000.
+	The surface area is 12044122.312288.
+
+640  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 61 y: 231 z: 468.
+	The density is 2431109110.000000.
+	The surface area is 84546.
+
+641  ----------  SPHERE
+	The sphere with the radius is 583.
+	The density is 6016980780.000000.
+	The surface area is 4271170.253152.
+
+642  ----------  TETRAHEDRON
+	The tetrahedron with the side 396.
+	The density is 6025690780.000000.
+	The surface area is 271613.279440.
+
+643  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 415 y: 447 z: 933.
+	The density is 15027741860.000000.
+	The surface area is 1113030.
+
+644  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 107 y: 706 z: 975.
+	The density is 10229888650.000000.
+	The surface area is 453252.
+
+645  ----------  TETRAHEDRON
+	The tetrahedron with the side 74.
+	The density is 12223434440.000000.
+	The surface area is 9484.710222.
+
+646  ----------  TETRAHEDRON
+	The tetrahedron with the side 287.
+	The density is 8104113100.000000.
+	The surface area is 142667.292969.
+
+647  ----------  SPHERE
+	The sphere with the radius is 392.
+	The density is 11085372830.000000.
+	The surface area is 1930998.372352.
+
+648  ----------  SPHERE
+	The sphere with the radius is 657.
+	The density is 11788354120.000000.
+	The surface area is 5424260.180832.
+
+649  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 126 y: 468 z: 37.
+	The density is 14511630420.000000.
+	The surface area is 353808.
+
+650  ----------  SPHERE
+	The sphere with the radius is 6.
+	The density is 4470534280.000000.
+	The surface area is 452.389248.
+
+651  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 471 y: 955 z: 952.
+	The density is 7876600560.000000.
+	The surface area is 2698830.
+
+652  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 549 y: 230 z: 391.
+	The density is 9191219240.000000.
+	The surface area is 757620.
+
+653  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 403 y: 316 z: 101.
+	The density is 6391382640.000000.
+	The surface area is 764088.
+
+654  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 219 y: 584 z: 713.
+	The density is 9922091180.000000.
+	The surface area is 767376.
+
+655  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 370 y: 755 z: 388.
+	The density is 2182482630.000000.
+	The surface area is 1676100.
+
+656  ----------  SPHERE
+	The sphere with the radius is 143.
+	The density is 8124267010.000000.
+	The surface area is 256969.659232.
+
+657  ----------  TETRAHEDRON
+	The tetrahedron with the side 149.
+	The density is 12594801290.000000.
+	The surface area is 38453.259979.
+
+658  ----------  TETRAHEDRON
+	The tetrahedron with the side 338.
+	The density is 20471401860.000000.
+	The surface area is 197876.412460.
+
+659  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 179 y: 821 z: 314.
+	The density is 19303347790.000000.
+	The surface area is 881754.
+
+660  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 556 y: 169 z: 334.
+	The density is 15545670890.000000.
+	The surface area is 563784.
+
+661  ----------  TETRAHEDRON
+	The tetrahedron with the side 987.
+	The density is 3581045240.000000.
+	The surface area is 1687310.203159.
+
+662  ----------  TETRAHEDRON
+	The tetrahedron with the side 572.
+	The density is 8915287840.000000.
+	The surface area is 566699.311424.
+
+663  ----------  SPHERE
+	The sphere with the radius is 21.
+	The density is 478306430.000000.
+	The surface area is 5541.768288.
+
+664  ----------  TETRAHEDRON
+	The tetrahedron with the side 409.
+	The density is 19912410420.000000.
+	The surface area is 289739.191141.
+
+665  ----------  SPHERE
+	The sphere with the radius is 270.
+	The density is 6561840960.000000.
+	The surface area is 916088.227200.
+
+666  ----------  TETRAHEDRON
+	The tetrahedron with the side 137.
+	The density is 19156642250.000000.
+	The surface area is 32508.861607.
+
+667  ----------  SPHERE
+	The sphere with the radius is 193.
+	The density is 18153207630.000000.
+	The surface area is 468084.641632.
+
+668  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 372 y: 17 z: 698.
+	The density is 15981718940.000000.
+	The surface area is 37944.
+
+669  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 254 y: 667 z: 281.
+	The density is 5453430580.000000.
+	The surface area is 1016508.
+
+670  ----------  TETRAHEDRON
+	The tetrahedron with the side 987.
+	The density is 1599992130.000000.
+	The surface area is 1687310.203159.
+
+671  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 278 y: 535 z: 101.
+	The density is 10515279980.000000.
+	The surface area is 892380.
+
+672  ----------  SPHERE
+	The sphere with the radius is 96.
+	The density is 17276715640.000000.
+	The surface area is 115811.647488.
+
+673  ----------  SPHERE
+	The sphere with the radius is 33.
+	The density is 1908330230.000000.
+	The surface area is 13684.774752.
+
+674  ----------  TETRAHEDRON
+	The tetrahedron with the side 559.
+	The density is 15959302420.000000.
+	The surface area is 541232.968400.
+
+675  ----------  SPHERE
+	The sphere with the radius is 179.
+	The density is 9303538250.000000.
+	The surface area is 402638.997088.
+
+676  ----------  TETRAHEDRON
+	The tetrahedron with the side 564.
+	The density is 7071344630.000000.
+	The surface area is 550958.433684.
+
+677  ----------  TETRAHEDRON
+	The tetrahedron with the side 262.
+	The density is 18453940800.000000.
+	The surface area is 118894.895635.
+
+678  ----------  SPHERE
+	The sphere with the radius is 516.
+	The density is 2432534910.000000.
+	The surface area is 3345870.878208.
+
+679  ----------  TETRAHEDRON
+	The tetrahedron with the side 797.
+	The density is 16111115440.000000.
+	The surface area is 1100214.261425.
+
+680  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 271 y: 387 z: 533.
+	The density is 17323601610.000000.
+	The surface area is 629262.
+
+681  ----------  TETRAHEDRON
+	The tetrahedron with the side 831.
+	The density is 21040013790.000000.
+	The surface area is 1196086.737726.
+
+682  ----------  SPHERE
+	The sphere with the radius is 256.
+	The density is 8996337660.000000.
+	The surface area is 823549.493248.
+
+683  ----------  SPHERE
+	The sphere with the radius is 669.
+	The density is 3514502500.000000.
+	The surface area is 5624216.228448.
+
+684  ----------  TETRAHEDRON
+	The tetrahedron with the side 220.
+	The density is 17189309590.000000.
+	The surface area is 83831.259086.
+
+685  ----------  TETRAHEDRON
+	The tetrahedron with the side 681.
+	The density is 6067651350.000000.
+	The surface area is 803257.614569.
+
+686  ----------  SPHERE
+	The sphere with the radius is 514.
+	The density is 10927712060.000000.
+	The surface area is 3319984.160128.
+
+687  ----------  TETRAHEDRON
+	The tetrahedron with the side 563.
+	The density is 17185001130.000000.
+	The surface area is 549006.412424.
+
+688  ----------  TETRAHEDRON
+	The tetrahedron with the side 998.
+	The density is 17084034540.000000.
+	The surface area is 1725129.532542.
+
+689  ----------  TETRAHEDRON
+	The tetrahedron with the side 806.
+	The density is 18204321100.000000.
+	The surface area is 1125202.558426.
+
+690  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 193 y: 402 z: 596.
+	The density is 16572624320.000000.
+	The surface area is 465516.
+
+691  ----------  TETRAHEDRON
+	The tetrahedron with the side 803.
+	The density is 20948362990.000000.
+	The surface area is 1116841.949178.
+
+692  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 59 y: 469 z: 595.
+	The density is 18618534890.000000.
+	The surface area is 166026.
+
+693  ----------  SPHERE
+	The sphere with the radius is 814.
+	The density is 2047428500.000000.
+	The surface area is 8326425.171328.
+
+694  ----------  TETRAHEDRON
+	The tetrahedron with the side 495.
+	The density is 8115079860.000000.
+	The surface area is 424395.749125.
+
+695  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 727 y: 734 z: 430.
+	The density is 19042791920.000000.
+	The surface area is 3201708.
+
+696  ----------  TETRAHEDRON
+	The tetrahedron with the side 716.
+	The density is 8479158750.000000.
+	The surface area is 887946.238805.
+
+697  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 799 y: 812 z: 965.
+	The density is 16974966190.000000.
+	The surface area is 3892728.
+
+698  ----------  SPHERE
+	The sphere with the radius is 86.
+	The density is 20362567090.000000.
+	The surface area is 92940.857728.
+
+699  ----------  TETRAHEDRON
+	The tetrahedron with the side 37.
+	The density is 14184682320.000000.
+	The surface area is 2371.177556.
+
+700  ----------  SPHERE
+	The sphere with the radius is 243.
+	The density is 17003135220.000000.
+	The surface area is 742031.464032.
+
+701  ----------  TETRAHEDRON
+	The tetrahedron with the side 556.
+	The density is 1861254130.000000.
+	The surface area is 535439.258449.
+
+702  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 370 y: 506 z: 830.
+	The density is 3908682640.000000.
+	The surface area is 1123320.
+
+703  ----------  SPHERE
+	The sphere with the radius is 926.
+	The density is 11271677440.000000.
+	The surface area is 10775358.967168.
+
+704  ----------  TETRAHEDRON
+	The tetrahedron with the side 76.
+	The density is 5891307720.000000.
+	The surface area is 10004.325465.
+
+705  ----------  SPHERE
+	The sphere with the radius is 791.
+	The density is 14370466470.000000.
+	The surface area is 7862537.696608.
+
+706  ----------  SPHERE
+	The sphere with the radius is 591.
+	The density is 9870596190.000000.
+	The surface area is 4389193.581408.
+
+707  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 181 y: 860 z: 436.
+	The density is 9715298480.000000.
+	The surface area is 933960.
+
+708  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 472 y: 918 z: 956.
+	The density is 12970463550.000000.
+	The surface area is 2599776.
+
+709  ----------  SPHERE
+	The sphere with the radius is 681.
+	The density is 617551480.000000.
+	The surface area is 5827791.390048.
+
+710  ----------  TETRAHEDRON
+	The tetrahedron with the side 205.
+	The density is 17002171770.000000.
+	The surface area is 72789.435188.
+
+711  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 753 y: 380 z: 362.
+	The density is 2131539540.000000.
+	The surface area is 1716840.
+
+712  ----------  TETRAHEDRON
+	The tetrahedron with the side 854.
+	The density is 12182009870.000000.
+	The surface area is 1263212.366773.
+
+713  ----------  TETRAHEDRON
+	The tetrahedron with the side 705.
+	The density is 8503822110.000000.
+	The surface area is 860872.552632.
+
+714  ----------  SPHERE
+	The sphere with the radius is 91.
+	The density is 3771080030.000000.
+	The surface area is 104062.093408.
+
+715  ----------  SPHERE
+	The sphere with the radius is 441.
+	The density is 3669130640.000000.
+	The surface area is 2443919.815008.
+
+716  ----------  TETRAHEDRON
+	The tetrahedron with the side 876.
+	The density is 2454911860.000000.
+	The surface area is 1329134.220509.
+
+717  ----------  SPHERE
+	The sphere with the radius is 67.
+	The density is 15425375410.000000.
+	The surface area is 56410.425952.
+
+718  ----------  SPHERE
+	The sphere with the radius is 500.
+	The density is 2449301220.000000.
+	The surface area is 3141592.000000.
+
+719  ----------  TETRAHEDRON
+	The tetrahedron with the side 208.
+	The density is 12809317650.000000.
+	The surface area is 74935.446139.
+
+720  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 285 y: 423 z: 656.
+	The density is 5603180230.000000.
+	The surface area is 723330.
+
+721  ----------  TETRAHEDRON
+	The tetrahedron with the side 55.
+	The density is 13357574080.000000.
+	The surface area is 5239.453693.
+
+722  ----------  TETRAHEDRON
+	The tetrahedron with the side 809.
+	The density is 11177262300.000000.
+	The surface area is 1133594.344588.
+
+723  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 792 y: 443 z: 590.
+	The density is 1892580510.000000.
+	The surface area is 2105136.
+
+724  ----------  SPHERE
+	The sphere with the radius is 31.
+	The density is 12382413060.000000.
+	The surface area is 12076.279648.
+
+725  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 626 y: 243 z: 53.
+	The density is 14837324930.000000.
+	The surface area is 912708.
+
+726  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 351 y: 910 z: 286.
+	The density is 18334699760.000000.
+	The surface area is 1916460.
+
+727  ----------  SPHERE
+	The sphere with the radius is 106.
+	The density is 3563411380.000000.
+	The surface area is 141195.710848.
+
+728  ----------  TETRAHEDRON
+	The tetrahedron with the side 247.
+	The density is 643174580.000000.
+	The surface area is 105670.687719.
+
+729  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 468 y: 379 z: 732.
+	The density is 6374381460.000000.
+	The surface area is 1064232.
+
+730  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 687 y: 761 z: 699.
+	The density is 21110600140.000000.
+	The surface area is 3136842.
+
+731  ----------  SPHERE
+	The sphere with the radius is 784.
+	The density is 4363595540.000000.
+	The surface area is 7723993.489408.
+
+732  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 624 y: 66 z: 725.
+	The density is 17143303340.000000.
+	The surface area is 247104.
+
+733  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 137 y: 866 z: 468.
+	The density is 9526175460.000000.
+	The surface area is 711852.
+
+734  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 235 y: 602 z: 695.
+	The density is 18639670370.000000.
+	The surface area is 848820.
+
+735  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 660 y: 510 z: 664.
+	The density is 8213193000.000000.
+	The surface area is 2019600.
+
+736  ----------  SPHERE
+	The sphere with the radius is 397.
+	The density is 7631879370.000000.
+	The surface area is 1980572.694112.
+
+737  ----------  SPHERE
+	The sphere with the radius is 802.
+	The density is 7267643030.000000.
+	The surface area is 8082738.163072.
+
+738  ----------  TETRAHEDRON
+	The tetrahedron with the side 931.
+	The density is 15099400420.000000.
+	The surface area is 1501274.090019.
+
+739  ----------  SPHERE
+	The sphere with the radius is 286.
+	The density is 17537447770.000000.
+	The surface area is 1027878.636928.
+
+740  ----------  TETRAHEDRON
+	The tetrahedron with the side 351.
+	The density is 2030303860.000000.
+	The surface area is 213390.391543.
+
+741  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 469 y: 181 z: 789.
+	The density is 3179928930.000000.
+	The surface area is 509334.
+
+742  ----------  SPHERE
+	The sphere with the radius is 660.
+	The density is 1284191170.000000.
+	The surface area is 5473909.900800.
+
+743  ----------  TETRAHEDRON
+	The tetrahedron with the side 74.
+	The density is 8854209590.000000.
+	The surface area is 9484.710222.
+
+744  ----------  TETRAHEDRON
+	The tetrahedron with the side 452.
+	The density is 17067402590.000000.
+	The surface area is 353864.908190.
+
+745  ----------  SPHERE
+	The sphere with the radius is 299.
+	The density is 10180140570.000000.
+	The surface area is 1123445.865568.
+
+746  ----------  SPHERE
+	The sphere with the radius is 408.
+	The density is 6105640300.000000.
+	The surface area is 2091847.882752.
+
+747  ----------  TETRAHEDRON
+	The tetrahedron with the side 277.
+	The density is 9786104170.000000.
+	The surface area is 132898.526414.
+
+748  ----------  SPHERE
+	The sphere with the radius is 497.
+	The density is 8459978130.000000.
+	The surface area is 3104005.993312.
+
+749  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 535 y: 817 z: 295.
+	The density is 14509675230.000000.
+	The surface area is 2622570.
+
+750  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 482 y: 479 z: 530.
+	The density is 1500845060.000000.
+	The surface area is 1385268.
+
+751  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 908 y: 464 z: 410.
+	The density is 9902179340.000000.
+	The surface area is 2527872.
+
+752  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 836 y: 434 z: 281.
+	The density is 12275864420.000000.
+	The surface area is 2176944.
+
+753  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 192 y: 851 z: 858.
+	The density is 5002576920.000000.
+	The surface area is 980352.
+
+754  ----------  SPHERE
+	The sphere with the radius is 854.
+	The density is 18946003610.000000.
+	The surface area is 9164853.244288.
+
+755  ----------  TETRAHEDRON
+	The tetrahedron with the side 351.
+	The density is 5931145260.000000.
+	The surface area is 213390.391543.
+
+756  ----------  TETRAHEDRON
+	The tetrahedron with the side 885.
+	The density is 20440820500.000000.
+	The surface area is 1356585.493758.
+
+757  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 183 y: 11 z: 392.
+	The density is 20263667960.000000.
+	The surface area is 12078.
+
+758  ----------  SPHERE
+	The sphere with the radius is 965.
+	The density is 8949646800.000000.
+	The surface area is 11702116.040800.
+
+759  ----------  SPHERE
+	The sphere with the radius is 430.
+	The density is 9994160320.000000.
+	The surface area is 2323521.443200.
+
+760  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 406 y: 487 z: 302.
+	The density is 3535922030.000000.
+	The surface area is 1186332.
+
+761  ----------  TETRAHEDRON
+	The tetrahedron with the side 752.
+	The density is 1477759270.000000.
+	The surface area is 979481.659883.
+
+762  ----------  TETRAHEDRON
+	The tetrahedron with the side 611.
+	The density is 10637658710.000000.
+	The surface area is 646610.939532.
+
+763  ----------  TETRAHEDRON
+	The tetrahedron with the side 184.
+	The density is 8108825840.000000.
+	The surface area is 58640.312141.
+
+764  ----------  SPHERE
+	The sphere with the radius is 253.
+	The density is 14039971110.000000.
+	The surface area is 804360.649312.
+
+765  ----------  TETRAHEDRON
+	The tetrahedron with the side 856.
+	The density is 13005955130.000000.
+	The surface area is 1269135.980535.
+
+766  ----------  TETRAHEDRON
+	The tetrahedron with the side 39.
+	The density is 11794786610.000000.
+	The surface area is 2634.449278.
+
+767  ----------  SPHERE
+	The sphere with the radius is 419.
+	The density is 5245813240.000000.
+	The surface area is 2206164.132448.
+
+768  ----------  SPHERE
+	The sphere with the radius is 941.
+	The density is 8961723260.000000.
+	The surface area is 11127280.103008.
+
+769  ----------  SPHERE
+	The sphere with the radius is 312.
+	The density is 18930518780.000000.
+	The surface area is 1223260.526592.
+
+770  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 517 y: 205 z: 636.
+	The density is 19700342250.000000.
+	The surface area is 635910.
+
+771  ----------  TETRAHEDRON
+	The tetrahedron with the side 514.
+	The density is 12895111540.000000.
+	The surface area is 457600.895156.
+
+772  ----------  SPHERE
+	The sphere with the radius is 10.
+	The density is 11322059460.000000.
+	The surface area is 1256.636800.
+
+773  ----------  SPHERE
+	The sphere with the radius is 322.
+	The density is 12062669940.000000.
+	The surface area is 1302931.299712.
+
+774  ----------  TETRAHEDRON
+	The tetrahedron with the side 88.
+	The density is 12263511420.000000.
+	The surface area is 13413.001454.
+
+775  ----------  TETRAHEDRON
+	The tetrahedron with the side 123.
+	The density is 12346446960.000000.
+	The surface area is 26204.196668.
+
+776  ----------  SPHERE
+	The sphere with the radius is 168.
+	The density is 2177044120.000000.
+	The surface area is 354673.170432.
+
+777  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 754 y: 575 z: 413.
+	The density is 11848127540.000000.
+	The surface area is 2601300.
+
+778  ----------  SPHERE
+	The sphere with the radius is 724.
+	The density is 6740623820.000000.
+	The surface area is 6586988.512768.
+
+779  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 242 y: 334 z: 705.
+	The density is 4966129590.000000.
+	The surface area is 484968.
+
+780  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 220 y: 398 z: 295.
+	The density is 17362143370.000000.
+	The surface area is 525360.
+
+781  ----------  TETRAHEDRON
+	The tetrahedron with the side 763.
+	The density is 2941240460.000000.
+	The surface area is 1008346.286592.
+
+782  ----------  TETRAHEDRON
+	The tetrahedron with the side 204.
+	The density is 16167576690.000000.
+	The surface area is 72081.026408.
+
+783  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 499 y: 197 z: 504.
+	The density is 20925031570.000000.
+	The surface area is 589818.
+
+784  ----------  TETRAHEDRON
+	The tetrahedron with the side 683.
+	The density is 10655337640.000000.
+	The surface area is 807982.649172.
+
+785  ----------  SPHERE
+	The sphere with the radius is 976.
+	The density is 5607115640.000000.
+	The surface area is 11970420.563968.
+
+786  ----------  SPHERE
+	The sphere with the radius is 96.
+	The density is 664935030.000000.
+	The surface area is 115811.647488.
+
+787  ----------  SPHERE
+	The sphere with the radius is 165.
+	The density is 20839554320.000000.
+	The surface area is 342119.368800.
+
+788  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 589 y: 12 z: 815.
+	The density is 3831749670.000000.
+	The surface area is 42408.
+
+789  ----------  SPHERE
+	The sphere with the radius is 828.
+	The density is 17840515710.000000.
+	The surface area is 8615300.838912.
+
+790  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 311 y: 461 z: 637.
+	The density is 20781756170.000000.
+	The surface area is 860226.
+
+791  ----------  SPHERE
+	The sphere with the radius is 111.
+	The density is 6272007070.000000.
+	The surface area is 154830.220128.
+
+792  ----------  SPHERE
+	The sphere with the radius is 333.
+	The density is 12087447770.000000.
+	The surface area is 1393471.981152.
+
+793  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 734 y: 151 z: 652.
+	The density is 1267948930.000000.
+	The surface area is 665004.
+
+794  ----------  TETRAHEDRON
+	The tetrahedron with the side 715.
+	The density is 14105539020.000000.
+	The surface area is 885467.674099.
+
+795  ----------  TETRAHEDRON
+	The tetrahedron with the side 907.
+	The density is 4751224310.000000.
+	The surface area is 1424869.864796.
+
+796  ----------  TETRAHEDRON
+	The tetrahedron with the side 433.
+	The density is 6159528610.000000.
+	The surface area is 324740.473860.
+
+797  ----------  TETRAHEDRON
+	The tetrahedron with the side 967.
+	The density is 20245168980.000000.
+	The surface area is 1619621.657599.
+
+798  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 795 y: 278 z: 161.
+	The density is 16610848210.000000.
+	The surface area is 1326060.
+
+799  ----------  TETRAHEDRON
+	The tetrahedron with the side 516.
+	The density is 1863918790.000000.
+	The surface area is 461168.919820.
+
+800  ----------  TETRAHEDRON
+	The tetrahedron with the side 345.
+	The density is 8135925860.000000.
+	The surface area is 206157.347371.
+
+801  ----------  SPHERE
+	The sphere with the radius is 677.
+	The density is 20223373630.000000.
+	The surface area is 5759530.879072.
+
+802  ----------  SPHERE
+	The sphere with the radius is 411.
+	The density is 16486090.000000.
+	The surface area is 2122723.448928.
+
+803  ----------  SPHERE
+	The sphere with the radius is 840.
+	The density is 6891550660.000000.
+	The surface area is 8866829.260800.
+
+804  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 365 y: 401 z: 534.
+	The density is 14431550270.000000.
+	The surface area is 878190.
+
+805  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 686 y: 51 z: 711.
+	The density is 1395368730.000000.
+	The surface area is 209916.
+
+806  ----------  TETRAHEDRON
+	The tetrahedron with the side 280.
+	The density is 4459681580.000000.
+	The surface area is 135792.783313.
+
+807  ----------  TETRAHEDRON
+	The tetrahedron with the side 160.
+	The density is 3664207820.000000.
+	The surface area is 44340.500674.
+
+808  ----------  SPHERE
+	The sphere with the radius is 675.
+	The density is 5528126610.000000.
+	The surface area is 5725551.420000.
+
+809  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 739 y: 117 z: 464.
+	The density is 13664052470.000000.
+	The surface area is 518778.
+
+810  ----------  TETRAHEDRON
+	The tetrahedron with the side 723.
+	The density is 6751616310.000000.
+	The surface area is 905393.186590.
+
+811  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 635 y: 386 z: 344.
+	The density is 4605529580.000000.
+	The surface area is 1470660.
+
+812  ----------  TETRAHEDRON
+	The tetrahedron with the side 463.
+	The density is 17510629340.000000.
+	The surface area is 371297.999568.
+
+813  ----------  TETRAHEDRON
+	The tetrahedron with the side 13.
+	The density is 11645857700.000000.
+	The surface area is 292.716586.
+
+814  ----------  SPHERE
+	The sphere with the radius is 723.
+	The density is 298094510.000000.
+	The surface area is 6568804.978272.
+
+815  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 722 y: 176 z: 434.
+	The density is 4757776100.000000.
+	The surface area is 762432.
+
+816  ----------  TETRAHEDRON
+	The tetrahedron with the side 461.
+	The density is 13925379530.000000.
+	The surface area is 368097.169675.
+
+817  ----------  TETRAHEDRON
+	The tetrahedron with the side 200.
+	The density is 3994038470.000000.
+	The surface area is 69282.032303.
+
+818  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 663 y: 149 z: 955.
+	The density is 3727583550.000000.
+	The surface area is 592722.
+
+819  ----------  SPHERE
+	The sphere with the radius is 927.
+	The density is 6970546600.000000.
+	The surface area is 10798644.447072.
+
+820  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 989 y: 439 z: 267.
+	The density is 1079204880.000000.
+	The surface area is 2605026.
+
+821  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 507 y: 184 z: 28.
+	The density is 10293220370.000000.
+	The surface area is 559728.
+
+822  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 36 y: 662 z: 347.
+	The density is 5584106550.000000.
+	The surface area is 142992.
+
+823  ----------  TETRAHEDRON
+	The tetrahedron with the side 946.
+	The density is 763873500.000000.
+	The surface area is 1550039.980506.
+
+824  ----------  TETRAHEDRON
+	The tetrahedron with the side 940.
+	The density is 14713984030.000000.
+	The surface area is 1530440.093568.
+
+825  ----------  TETRAHEDRON
+	The tetrahedron with the side 672.
+	The density is 20853310550.000000.
+	The surface area is 782166.431885.
+
+826  ----------  TETRAHEDRON
+	The tetrahedron with the side 539.
+	The density is 17930390210.000000.
+	The surface area is 503197.132666.
+
+827  ----------  TETRAHEDRON
+	The tetrahedron with the side 951.
+	The density is 5961709110.000000.
+	The surface area is 1566468.482416.
+
+828  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 468 y: 980 z: 295.
+	The density is 13313654390.000000.
+	The surface area is 2751840.
+
+829  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 404 y: 960 z: 335.
+	The density is 2185743580.000000.
+	The surface area is 2327040.
+
+830  ----------  TETRAHEDRON
+	The tetrahedron with the side 959.
+	The density is 8809446500.000000.
+	The surface area is 1592934.218756.
+
+831  ----------  TETRAHEDRON
+	The tetrahedron with the side 26.
+	The density is 1151336080.000000.
+	The surface area is 1170.866346.
+
+832  ----------  SPHERE
+	The sphere with the radius is 690.
+	The density is 1915209580.000000.
+	The surface area is 5982847.804800.
+
+833  ----------  TETRAHEDRON
+	The tetrahedron with the side 630.
+	The density is 16629193610.000000.
+	The surface area is 687450.965524.
+
+834  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 22 y: 221 z: 711.
+	The density is 16007667680.000000.
+	The surface area is 29172.
+
+835  ----------  TETRAHEDRON
+	The tetrahedron with the side 391.
+	The density is 3149093410.000000.
+	The surface area is 264797.659512.
+
+836  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 247 y: 417 z: 818.
+	The density is 16133938290.000000.
+	The surface area is 617994.
+
+837  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 969 y: 664 z: 549.
+	The density is 12932593160.000000.
+	The surface area is 3860496.
+
+838  ----------  TETRAHEDRON
+	The tetrahedron with the side 744.
+	The density is 12385043500.000000.
+	The surface area is 958752.475818.
+
+839  ----------  TETRAHEDRON
+	The tetrahedron with the side 601.
+	The density is 15147220400.000000.
+	The surface area is 625618.483745.
+
+840  ----------  SPHERE
+	The sphere with the radius is 272.
+	The density is 5158147800.000000.
+	The surface area is 929710.170112.
+
+841  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 217 y: 484 z: 309.
+	The density is 17818041710.000000.
+	The surface area is 630168.
+
+842  ----------  SPHERE
+	The sphere with the radius is 530.
+	The density is 13761080190.000000.
+	The surface area is 3529892.771200.
+
+843  ----------  SPHERE
+	The sphere with the radius is 814.
+	The density is 6084277460.000000.
+	The surface area is 8326425.171328.
+
+844  ----------  TETRAHEDRON
+	The tetrahedron with the side 652.
+	The density is 12677749690.000000.
+	The surface area is 736301.726501.
+
+845  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 189 y: 119 z: 20.
+	The density is 13145865280.000000.
+	The surface area is 134946.
+
+846  ----------  SPHERE
+	The sphere with the radius is 568.
+	The density is 13249015540.000000.
+	The surface area is 4054211.909632.
+
+847  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 312 y: 319 z: 873.
+	The density is 4159222560.000000.
+	The surface area is 597168.
+
+848  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 704 y: 902 z: 617.
+	The density is 5139120550.000000.
+	The surface area is 3810048.
+
+849  ----------  SPHERE
+	The sphere with the radius is 819.
+	The density is 19796295070.000000.
+	The surface area is 8429029.566048.
+
+850  ----------  SPHERE
+	The sphere with the radius is 324.
+	The density is 12567728780.000000.
+	The surface area is 1319167.047168.
+
+851  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 825 y: 552 z: 23.
+	The density is 17802383900.000000.
+	The surface area is 2732400.
+
+852  ----------  TETRAHEDRON
+	The tetrahedron with the side 599.
+	The density is 8297743170.000000.
+	The surface area is 621461.561807.
+
+853  ----------  SPHERE
+	The sphere with the radius is 436.
+	The density is 395332570.000000.
+	The surface area is 2388816.291328.
+
+854  ----------  TETRAHEDRON
+	The tetrahedron with the side 218.
+	The density is 12497487070.000000.
+	The surface area is 82313.982579.
+
+855  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 812 y: 324 z: 363.
+	The density is 17537328360.000000.
+	The surface area is 1578528.
+
+856  ----------  TETRAHEDRON
+	The tetrahedron with the side 844.
+	The density is 20955306070.000000.
+	The surface area is 1233802.144060.
+
+857  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 180 y: 289 z: 974.
+	The density is 21038162150.000000.
+	The surface area is 312120.
+
+858  ----------  TETRAHEDRON
+	The tetrahedron with the side 602.
+	The density is 11783419760.000000.
+	The surface area is 627702.140866.
+
+859  ----------  TETRAHEDRON
+	The tetrahedron with the side 731.
+	The density is 1758219560.000000.
+	The surface area is 925540.401583.
+
+860  ----------  TETRAHEDRON
+	The tetrahedron with the side 472.
+	The density is 14302358390.000000.
+	The surface area is 385873.207113.
+
+861  ----------  SPHERE
+	The sphere with the radius is 71.
+	The density is 1125265080.000000.
+	The surface area is 63347.061088.
+
+862  ----------  SPHERE
+	The sphere with the radius is 506.
+	The density is 1520597650.000000.
+	The surface area is 3217442.597248.
+
+863  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 442 y: 431 z: 728.
+	The density is 14018084720.000000.
+	The surface area is 1143012.
+
+864  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 809 y: 96 z: 708.
+	The density is 15937404180.000000.
+	The surface area is 465984.
+
+865  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 564 y: 552 z: 929.
+	The density is 5437855910.000000.
+	The surface area is 1867968.
+
+866  ----------  TETRAHEDRON
+	The tetrahedron with the side 427.
+	The density is 19128025510.000000.
+	The surface area is 315803.091693.
+
+867  ----------  SPHERE
+	The sphere with the radius is 381.
+	The density is 13875161230.000000.
+	The surface area is 1824146.545248.
+
+868  ----------  TETRAHEDRON
+	The tetrahedron with the side 606.
+	The density is 10510305300.000000.
+	The surface area is 636071.410368.
+
+869  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 754 y: 569 z: 167.
+	The density is 236370940.000000.
+	The surface area is 2574156.
+
+870  ----------  TETRAHEDRON
+	The tetrahedron with the side 23.
+	The density is 5664178090.000000.
+	The surface area is 916.254877.
+
+871  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 453 y: 862 z: 927.
+	The density is 18074449810.000000.
+	The surface area is 2342916.
+
+872  ----------  SPHERE
+	The sphere with the radius is 23.
+	The density is 19468558660.000000.
+	The surface area is 6647.608672.
+
+873  ----------  SPHERE
+	The sphere with the radius is 943.
+	The density is 1277588740.000000.
+	The surface area is 11174630.177632.
+
+874  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 591 y: 890 z: 301.
+	The density is 21462209430.000000.
+	The surface area is 3155940.
+
+875  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 48 y: 118 z: 493.
+	The density is 13079641930.000000.
+	The surface area is 33984.
+
+876  ----------  SPHERE
+	The sphere with the radius is 273.
+	The density is 1202141070.000000.
+	The surface area is 936558.840672.
+
+877  ----------  TETRAHEDRON
+	The tetrahedron with the side 561.
+	The density is 12413615910.000000.
+	The surface area is 545112.762209.
+
+878  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 355 y: 322 z: 780.
+	The density is 3670851930.000000.
+	The surface area is 685860.
+
+879  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 361 y: 236 z: 137.
+	The density is 16447301160.000000.
+	The surface area is 511176.
+
+880  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 488 y: 511 z: 639.
+	The density is 2914252590.000000.
+	The surface area is 1496208.
+
+881  ----------  TETRAHEDRON
+	The tetrahedron with the side 230.
+	The density is 2085917420.000000.
+	The surface area is 91625.487720.
+
+882  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 248 y: 197 z: 609.
+	The density is 21201315890.000000.
+	The surface area is 293136.
+
+883  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 987 y: 525 z: 681.
+	The density is 12196008670.000000.
+	The surface area is 3109050.
+
+884  ----------  SPHERE
+	The sphere with the radius is 242.
+	The density is 1873868650.000000.
+	The surface area is 735936.775552.
+
+885  ----------  SPHERE
+	The sphere with the radius is 596.
+	The density is 5544720580.000000.
+	The surface area is 4463774.975488.
+
+886  ----------  TETRAHEDRON
+	The tetrahedron with the side 904.
+	The density is 14490893250.000000.
+	The surface area is 1415459.632758.
+
+887  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 859 y: 526 z: 975.
+	The density is 17318126790.000000.
+	The surface area is 2711004.
+
+888  ----------  SPHERE
+	The sphere with the radius is 486.
+	The density is 21179239690.000000.
+	The surface area is 2968125.856128.
+
+889  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 747 y: 704 z: 583.
+	The density is 8831098590.000000.
+	The surface area is 3155328.
+
+890  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 779 y: 917 z: 753.
+	The density is 8544283860.000000.
+	The surface area is 4286058.
+
+891  ----------  SPHERE
+	The sphere with the radius is 996.
+	The density is 2135948140.000000.
+	The surface area is 12466038.117888.
+
+892  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 436 y: 827 z: 600.
+	The density is 14716905790.000000.
+	The surface area is 2163432.
+
+893  ----------  TETRAHEDRON
+	The tetrahedron with the side 778.
+	The density is 13286744180.000000.
+	The surface area is 1048382.641009.
+
+894  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 168 y: 49 z: 905.
+	The density is 8698133620.000000.
+	The surface area is 49392.
+
+895  ----------  SPHERE
+	The sphere with the radius is 459.
+	The density is 679667070.000000.
+	The surface area is 2647494.976608.
+
+896  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 933 y: 996 z: 694.
+	The density is 20917294050.000000.
+	The surface area is 5575608.
+
+897  ----------  TETRAHEDRON
+	The tetrahedron with the side 4.
+	The density is 623618730.000000.
+	The surface area is 27.712813.
+
+898  ----------  TETRAHEDRON
+	The tetrahedron with the side 920.
+	The density is 20310040390.000000.
+	The surface area is 1466007.803526.
+
+899  ----------  TETRAHEDRON
+	The tetrahedron with the side 544.
+	The density is 9242797770.000000.
+	The surface area is 512576.187789.
+
+900  ----------  SPHERE
+	The sphere with the radius is 6.
+	The density is 3041331300.000000.
+	The surface area is 452.389248.
+
+901  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 606 y: 169 z: 818.
+	The density is 3069801080.000000.
+	The surface area is 614484.
+
+902  ----------  SPHERE
+	The sphere with the radius is 583.
+	The density is 5079065770.000000.
+	The surface area is 4271170.253152.
+
+903  ----------  SPHERE
+	The sphere with the radius is 488.
+	The density is 9094486810.000000.
+	The surface area is 2992605.140992.
+
+904  ----------  TETRAHEDRON
+	The tetrahedron with the side 947.
+	The density is 9774153890.000000.
+	The surface area is 1553318.752685.
+
+905  ----------  TETRAHEDRON
+	The tetrahedron with the side 599.
+	The density is 9216611460.000000.
+	The surface area is 621461.561807.
+
+906  ----------  TETRAHEDRON
+	The tetrahedron with the side 954.
+	The density is 9507776940.000000.
+	The surface area is 1576367.152781.
+
+907  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 698 y: 353 z: 67.
+	The density is 10374129750.000000.
+	The surface area is 1478364.
+
+908  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 610 y: 406 z: 903.
+	The density is 10183769380.000000.
+	The surface area is 1485960.
+
+909  ----------  SPHERE
+	The sphere with the radius is 299.
+	The density is 6811951760.000000.
+	The surface area is 1123445.865568.
+
+910  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 835 y: 43 z: 933.
+	The density is 3718886800.000000.
+	The surface area is 215430.
+
+911  ----------  TETRAHEDRON
+	The tetrahedron with the side 973.
+	The density is 12809827660.000000.
+	The surface area is 1639782.728999.
+
+912  ----------  SPHERE
+	The sphere with the radius is 475.
+	The density is 15838879580.000000.
+	The surface area is 2835286.780000.
+
+913  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 205 y: 608 z: 955.
+	The density is 2941512490.000000.
+	The surface area is 747840.
+
+914  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 513 y: 774 z: 260.
+	The density is 14808322470.000000.
+	The surface area is 2382372.
+
+915  ----------  SPHERE
+	The sphere with the radius is 173.
+	The density is 15398474510.000000.
+	The surface area is 376098.827872.
+
+916  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 579 y: 822 z: 503.
+	The density is 10326364980.000000.
+	The surface area is 2855628.
+
+917  ----------  TETRAHEDRON
+	The tetrahedron with the side 161.
+	The density is 4224499660.000000.
+	The surface area is 44896.488983.
+
+918  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 203 y: 225 z: 811.
+	The density is 15401110210.000000.
+	The surface area is 274050.
+
+919  ----------  SPHERE
+	The sphere with the radius is 437.
+	The density is 3783421960.000000.
+	The surface area is 2399786.730592.
+
+920  ----------  TETRAHEDRON
+	The tetrahedron with the side 446.
+	The density is 9975178750.000000.
+	The surface area is 344532.618438.
+
+921  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 55 y: 753 z: 663.
+	The density is 3908710530.000000.
+	The surface area is 248490.
+
+922  ----------  TETRAHEDRON
+	The tetrahedron with the side 437.
+	The density is 20920830880.000000.
+	The surface area is 330768.010671.
+
+923  ----------  TETRAHEDRON
+	The tetrahedron with the side 996.
+	The density is 6916395180.000000.
+	The surface area is 1718222.113921.
+
+924  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 883 y: 65 z: 591.
+	The density is 3095728860.000000.
+	The surface area is 344370.
+
+925  ----------  TETRAHEDRON
+	The tetrahedron with the side 430.
+	The density is 10974468700.000000.
+	The surface area is 320256.194319.
+
+926  ----------  TETRAHEDRON
+	The tetrahedron with the side 822.
+	The density is 9542335180.000000.
+	The surface area is 1170319.017861.
+
+927  ----------  SPHERE
+	The sphere with the radius is 634.
+	The density is 16908154240.000000.
+	The surface area is 5051127.015808.
+
+928  ----------  TETRAHEDRON
+	The tetrahedron with the side 789.
+	The density is 20691576200.000000.
+	The surface area is 1078238.000779.
+
+929  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 953 y: 759 z: 275.
+	The density is 9191918470.000000.
+	The surface area is 4339962.
+
+930  ----------  TETRAHEDRON
+	The tetrahedron with the side 937.
+	The density is 2434445430.000000.
+	The surface area is 1520686.915470.
+
+931  ----------  TETRAHEDRON
+	The tetrahedron with the side 94.
+	The density is 1880439830.000000.
+	The surface area is 15304.400936.
+
+932  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 808 y: 860 z: 834.
+	The density is 8796835010.000000.
+	The surface area is 4169280.
+
+933  ----------  SPHERE
+	The sphere with the radius is 144.
+	The density is 3551261620.000000.
+	The surface area is 260576.206848.
+
+934  ----------  SPHERE
+	The sphere with the radius is 573.
+	The density is 14525730320.000000.
+	The surface area is 4125903.039072.
+
+935  ----------  TETRAHEDRON
+	The tetrahedron with the side 115.
+	The density is 2593229020.000000.
+	The surface area is 22906.371930.
+
+936  ----------  TETRAHEDRON
+	The tetrahedron with the side 467.
+	The density is 19501383260.000000.
+	The surface area is 377741.228572.
+
+937  ----------  SPHERE
+	The sphere with the radius is 974.
+	The density is 18718122980.000000.
+	The surface area is 11921411.728768.
+
+938  ----------  SPHERE
+	The sphere with the radius is 927.
+	The density is 6435204980.000000.
+	The surface area is 10798644.447072.
+
+939  ----------  SPHERE
+	The sphere with the radius is 654.
+	The density is 19535833980.000000.
+	The surface area is 5374836.655488.
+
+940  ----------  SPHERE
+	The sphere with the radius is 715.
+	The density is 18511645760.000000.
+	The surface area is 6424241.480800.
+
+941  ----------  SPHERE
+	The sphere with the radius is 90.
+	The density is 17178078780.000000.
+	The surface area is 101787.580800.
+
+942  ----------  SPHERE
+	The sphere with the radius is 949.
+	The density is 9458771080.000000.
+	The surface area is 11317283.587168.
+
+943  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 312 y: 754 z: 138.
+	The density is 5680087640.000000.
+	The surface area is 1411488.
+
+944  ----------  TETRAHEDRON
+	The tetrahedron with the side 917.
+	The density is 1030878540.000000.
+	The surface area is 1456462.471526.
+
+945  ----------  SPHERE
+	The sphere with the radius is 884.
+	The density is 9849532200.000000.
+	The surface area is 9820063.671808.
+
+946  ----------  SPHERE
+	The sphere with the radius is 989.
+	The density is 16527012700.000000.
+	The surface area is 12291428.434528.
+
+947  ----------  TETRAHEDRON
+	The tetrahedron with the side 775.
+	The density is 20004901070.000000.
+	The surface area is 1040313.016296.
+
+948  ----------  SPHERE
+	The sphere with the radius is 601.
+	The density is 8946616890.000000.
+	The surface area is 4538984.687968.
+
+949  ----------  TETRAHEDRON
+	The tetrahedron with the side 377.
+	The density is 16227824930.000000.
+	The surface area is 246174.649229.
+
+950  ----------  TETRAHEDRON
+	The tetrahedron with the side 368.
+	The density is 3633166530.000000.
+	The surface area is 234561.248564.
+
+951  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 144 y: 382 z: 91.
+	The density is 14800329080.000000.
+	The surface area is 330048.
+
+952  ----------  SPHERE
+	The sphere with the radius is 403.
+	The density is 5433265720.000000.
+	The surface area is 2040891.260512.
+
+953  ----------  SPHERE
+	The sphere with the radius is 492.
+	The density is 3116473390.000000.
+	The surface area is 3041865.303552.
+
+954  ----------  SPHERE
+	The sphere with the radius is 67.
+	The density is 15761844540.000000.
+	The surface area is 56410.425952.
+
+955  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 777 y: 58 z: 808.
+	The density is 1756270160.000000.
+	The surface area is 270396.
+
+956  ----------  SPHERE
+	The sphere with the radius is 583.
+	The density is 15985272490.000000.
+	The surface area is 4271170.253152.
+
+957  ----------  TETRAHEDRON
+	The tetrahedron with the side 902.
+	The density is 3457052900.000000.
+	The surface area is 1409203.465241.
+
+958  ----------  SPHERE
+	The sphere with the radius is 997.
+	The density is 19684877830.000000.
+	The surface area is 12491082.889312.
+
+959  ----------  SPHERE
+	The sphere with the radius is 85.
+	The density is 1843207880.000000.
+	The surface area is 90792.008800.
+
+960  ----------  SPHERE
+	The sphere with the radius is 946.
+	The density is 16643536960.000000.
+	The surface area is 11245843.785088.
+
+961  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 700 y: 37 z: 646.
+	The density is 8561964710.000000.
+	The surface area is 155400.
+
+962  ----------  TETRAHEDRON
+	The tetrahedron with the side 139.
+	The density is 9104929300.000000.
+	The surface area is 33464.953653.
+
+963  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 923 y: 911 z: 89.
+	The density is 3391937360.000000.
+	The surface area is 5045118.
+
+964  ----------  SPHERE
+	The sphere with the radius is 616.
+	The density is 13894928030.000000.
+	The surface area is 4768383.735808.
+
+965  ----------  TETRAHEDRON
+	The tetrahedron with the side 917.
+	The density is 8405364040.000000.
+	The surface area is 1456462.471526.
+
+966  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 539 y: 437 z: 84.
+	The density is 11862416940.000000.
+	The surface area is 1413258.
+
+967  ----------  TETRAHEDRON
+	The tetrahedron with the side 377.
+	The density is 3969261560.000000.
+	The surface area is 246174.649229.
+
+968  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 811 y: 5 z: 566.
+	The density is 4771273670.000000.
+	The surface area is 24330.
+
+969  ----------  SPHERE
+	The sphere with the radius is 602.
+	The density is 15800480740.000000.
+	The surface area is 4554102.028672.
+
+970  ----------  SPHERE
+	The sphere with the radius is 937.
+	The density is 20233342710.000000.
+	The surface area is 11032881.546592.
+
+971  ----------  TETRAHEDRON
+	The tetrahedron with the side 925.
+	The density is 15744867660.000000.
+	The surface area is 1481985.972226.
+
+972  ----------  SPHERE
+	The sphere with the radius is 15.
+	The density is 12184587800.000000.
+	The surface area is 2827.432800.
+
+973  ----------  SPHERE
+	The sphere with the radius is 630.
+	The density is 4604679350.000000.
+	The surface area is 4987591.459200.
+
+974  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 547 y: 510 z: 489.
+	The density is 13010043400.000000.
+	The surface area is 1673820.
+
+975  ----------  TETRAHEDRON
+	The tetrahedron with the side 573.
+	The density is 9909826900.000000.
+	The surface area is 568682.509598.
+
+976  ----------  TETRAHEDRON
+	The tetrahedron with the side 668.
+	The density is 13879088460.000000.
+	The surface area is 772882.639557.
+
+977  ----------  TETRAHEDRON
+	The tetrahedron with the side 480.
+	The density is 18650362140.000000.
+	The surface area is 399064.506064.
+
+978  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 535 y: 825 z: 5.
+	The density is 2501989520.000000.
+	The surface area is 2648250.
+
+979  ----------  TETRAHEDRON
+	The tetrahedron with the side 660.
+	The density is 412688640.000000.
+	The surface area is 754481.331777.
+
+980  ----------  SPHERE
+	The sphere with the radius is 585.
+	The density is 16157556300.000000.
+	The surface area is 4300525.288800.
+
+981  ----------  TETRAHEDRON
+	The tetrahedron with the side 318.
+	The density is 6867307620.000000.
+	The surface area is 175151.905865.
+
+982  ----------  TETRAHEDRON
+	The tetrahedron with the side 947.
+	The density is 11471986970.000000.
+	The surface area is 1553318.752685.
+
+983  ----------  TETRAHEDRON
+	The tetrahedron with the side 495.
+	The density is 3007193890.000000.
+	The surface area is 424395.749125.
+
+984  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 299 y: 985 z: 472.
+	The density is 6404817760.000000.
+	The surface area is 1767090.
+
+985  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 858 y: 756 z: 685.
+	The density is 9733655090.000000.
+	The surface area is 3891888.
+
+986  ----------  TETRAHEDRON
+	The tetrahedron with the side 87.
+	The density is 13067660830.000000.
+	The surface area is 13109.892562.
+
+987  ----------  TETRAHEDRON
+	The tetrahedron with the side 809.
+	The density is 14721843240.000000.
+	The surface area is 1133594.344588.
+
+988  ----------  SPHERE
+	The sphere with the radius is 469.
+	The density is 15134531880.000000.
+	The surface area is 2764110.871648.
+
+989  ----------  TETRAHEDRON
+	The tetrahedron with the side 773.
+	The density is 9817251700.000000.
+	The surface area is 1034950.586996.
+
+990  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 91 y: 197 z: 822.
+	The density is 16684559320.000000.
+	The surface area is 107562.
+
+991  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 232 y: 252 z: 328.
+	The density is 19739143980.000000.
+	The surface area is 350784.
+
+992  ----------  TETRAHEDRON
+	The tetrahedron with the side 32.
+	The density is 8699404570.000000.
+	The surface area is 1773.620027.
+
+993  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 880 y: 180 z: 383.
+	The density is 8525392340.000000.
+	The surface area is 950400.
+
+994  ----------  SPHERE
+	The sphere with the radius is 259.
+	The density is 8636177530.000000.
+	The surface area is 842964.531808.
+
+995  ----------  TETRAHEDRON
+	The tetrahedron with the side 242.
+	The density is 5634368260.000000.
+	The surface area is 101435.823494.
+
+996  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 117 y: 368 z: 556.
+	The density is 4595416520.000000.
+	The surface area is 258336.
+
+997  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 733 y: 772 z: 231.
+	The density is 9050391950.000000.
+	The surface area is 3395256.
+
+998  ----------  TETRAHEDRON
+	The tetrahedron with the side 987.
+	The density is 4472725920.000000.
+	The surface area is 1687310.203159.
+
+999  ----------  PARALLELEPIPED
+	The parallelepiped with the sides x: 957 y: 264 z: 394.
+	The density is 14161629640.000000.
+	The surface area is 1515888.
+
