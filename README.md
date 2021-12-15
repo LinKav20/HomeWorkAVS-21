@@ -37,3 +37,5 @@
 
 Пример: ./main -r ../tests/test5.txt ../results/result5.txt ../results/result_sorted5.txt
 
+# HW-5:
+Просто запустить.
